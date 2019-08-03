@@ -1,0 +1,5 @@
+name: Spixi website
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap

@@ -1,0 +1,48 @@
+*
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-item
+{
+    padding-right: 16px;
+}
+
+nav .nav
+{
+    width: 415px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divider {
+  width: 70%;
+  background-color: #000000;
+  height: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.24;
+}
+
+footer .nav-links a
+{
+    color: #eeb4c8;
+}
+
+footer h3
+{
+    color: white;
+}
+
+@media (min-width: 300px) and (max-width: 768px) {
+  .text-left.heroHeading {
+    padding-top: 20px!important;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 768px) {
+  .bg-success.d-flex.align-items-center {
+    height: auto!important;
+  }
+}
+
