@@ -24,6 +24,207 @@ nav .nav
     opacity: 0.24;
 }
 
+.features
+{
+    padding-bottom: 40px;
+}
+
+.features > h2
+{
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 60px;
+    color: #a71e5a;
+    padding-top: 60px;
+    letter-spacing: 0;
+}
+
+.features > div > i
+{
+    font-size: 60px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background: -webkit-linear-gradient(#c2185b, #5f2d57);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.features > div > strong
+{
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.features > div > p
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.otherFeatures
+{
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.otherFeatures > div > h2
+{
+    font-size: 24px;
+    color: #a71e5a;
+    padding-left: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+.otherFeatures > div > p
+{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.walletSection > div
+{
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+
+.walletSection > div > div > i
+{
+    font-size: 24px;
+    padding-top: 0px;
+    color: #bf195b;
+    color: #9c47fc;
+    background: -webkit-linear-gradient(#c2185b, #5f2d57);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.walletSection > div > div > strong
+{
+    font-size: 18px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.roadmapTitle > h2
+{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: Roboto, sans-serif;
+    color: #540b2e;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 0;
+}
+
+.downloadBox > div
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 60px;
+    height: auto;
+}
+
+.downloadBox > div > p
+{
+    color: rgb(255,255,255);
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    font-weight: normal;
+}
+
+.downloadBox button
+{
+    padding-top: 10px;
+    margin-top: 0;
+    font-family: Roboto, sans-serif;
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19);
+    opacity: 1;
+    background-color: rgba(255,255,255,0.03);
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 17px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border-color: white;
+    border-radius: 40px;
+    border: 2px solid white;
+    margin-bottom: 40px;
+    z-index:100;
+}
+
+.roadmapTitle > p
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.roadmap
+{
+    margin-top: 60px;
+}
+
+.roadmap > div > div
+{
+    position: relative;
+    margin-bottom: 50px;
+    max-width: 305px;
+    max-height: 190px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.roadmap > div > div > i
+{
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+    display: block;
+    position: absolute;
+    font-size: 32px;
+    bottom: -24px;
+    left: 50%;
+    margin-left: -32px;
+    right: 0;
+    color: rgb(255,255,255);
+    background-color: #c2185b;
+}
+
+.roadmap > div > div > img
+{
+    display: inherit;
+    width: 100%;
+}
+
+.roadmap > div > strong
+{
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.roadmap > div > p
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 footer .nav-links a
 {
     color: #eeb4c8;
