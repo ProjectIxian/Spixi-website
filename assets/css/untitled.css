@@ -1,0 +1,21 @@
+.divider {
+  width: 70%;
+  background-color: #000000;
+  height: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.24;
+}
+
+@media (min-width: 300px) and (max-width: 768px) {
+  .text-left.heroHeading {
+    padding-top: 20px!important;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 768px) {
+  .bg-success.d-flex.align-items-center {
+    height: auto!important;
+  }
+}
+

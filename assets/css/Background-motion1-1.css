@@ -1,0 +1,56 @@
+.example-box {
+  background-image: linear-gradient(to bottom right, #c1185b, #602d57);
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 200;
+  z-index: 1;
+  border-radius: 30px;
+}
+
+.example-box * {
+  z-index: 2;
+}
+
+h1 {
+  /*font-family: Montserrat, sans-serif;*/
+  color: white;
+  font-weight: 600;
+  /*letter-spacing: 2px;*/
+  /*text-transform: uppercase;*/
+  shadow: 4px 4px 4px #000000;
+}
+
+.background-shapes {
+  content: "";
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 5076px;
+  background-size: 100%;
+  animation: 120s infiniteScroll linear infinite;
+  background-repeat-x: repeat;
+  background-image: url(https://cdn2.hubspot.net/hubfs/53/Pricing%202017%20Assets/marketing/Header_Circles-1.svg);
+}
+
+@keyframes infiniteScroll {
+  0% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    -webkit-transform: translate3d(0, -1692px, 0);
+    transform: translate3d(0, -1692px, 0);
+  }
+}
+

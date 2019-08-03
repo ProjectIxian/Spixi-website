@@ -1,0 +1,24 @@
+.border-pretty {
+  border: 1px solid #ffffff;
+}
+
+.border-pretty:hover {
+  border: 1px solid #000000;
+}
+
+.btn-link:hover {
+  color: #070707;
+  text-decoration: none;
+}
+
+.btn.focus, .btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,0);
+}
+
+.btn-link {
+  font-weight: 400;
+  color: #ffffff;
+  text-decoration: none !important;
+}
+

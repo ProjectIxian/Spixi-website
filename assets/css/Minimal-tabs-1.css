@@ -1,0 +1,43 @@
+.nav-tabs {
+  border-bottom: none;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+  color: #555;
+  cursor: default;
+  border: none;
+  border-bottom: solid 5px red;
+  line-height: normal;
+}
+
+.nav > li > a:focus, .nav > li > a {
+  text-decoration: none;
+  margin: 0;
+  line-height: normal;
+  border: none;
+  border-bottom: solid 5px gray;
+}
+
+.nav-tabs > li > a:hover {
+  border: none;
+  border-bottom: solid 5px gray;
+}
+
+.tab-content {
+  padding: 10px;
+}
+
+.nav-tabs > li > a {
+  border-radius: 0;
+  margin: 0;
+  line-height: normal;
+  color: black;
+  font-size: 20px;
+}
+
+.nav-tabs > li {
+  float: left;
+  margin-bottom: -1px;
+  width: 33.33%;
+}
+
