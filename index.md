@@ -5,10 +5,12 @@ description: Ixian is a fully scalable, decentralized platform that enables encr
 keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
 ---
 <div class="container">
+    <h2 class="text-center" style="font-family: Roboto, sans-serif;font-size: 36px;font-weight: 300;padding-top: 80px;color: #540b2e;">What makes SPIXI instant messenger so special</h2>
+    <p class="text-center" style="padding-top: 30px;padding-bottom: 40px;">Spixi is a next generation instant messenger. It utilizes blockchain technology to provide a secure and private chat experience.<br>No verification, no phone number and no personal data are required to use Spixi.</p><div class="divider"></div>
     <a id="features"></a>
     <div class="row features">
         <h2 class="text-center">Key Features of Spixi IM</h2>
-        <div class="col-md-3"><i class="fas fa-stopwatch" data-aos="fade" data-aos-duration="50"></i>
+        <div class="col-md-3">
             <strong>No downtime</strong>
             <p class="text-center">With data connection you are always online. Resulting in no service downtime.</p>
         </div>
