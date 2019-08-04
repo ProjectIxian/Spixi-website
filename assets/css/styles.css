@@ -5,7 +5,8 @@
 
 .nav-link
 {
-    padding-right: 16px;
+    padding-right: 16px !important;
+    border-bottom: none !important;
 }
 
 nav .nav
