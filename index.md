@@ -5,7 +5,26 @@ description: Ixian is a fully scalable, decentralized platform that enables encr
 keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
 ---
 <div class="container">
-
+    <a id="features"></a>
+    <div class="row features">
+        <h2 class="text-center">Key Features of Spixi IM</h2>
+        <div class="col-md-3"><i class="fas fa-stopwatch" data-aos="fade" data-aos-duration="50"></i>
+            <strong>No downtime</strong>
+            <p class="text-center">With data connection you are always online. Resulting in no service downtime.</p>
+        </div>
+        <div class="col-md-3"><i class="fas fa-project-diagram"></i>
+            <strong>Decentralized</strong>
+            <p class="text-center">No centralized server, no points of failure. Experience direct peer-2-peer data transfer.</p>
+        </div>
+        <div class="col-md-3"><i class="fas fa-fingerprint"></i>
+            <strong>Encrypted messaging</strong>
+            <p class="text-center">All messages are encrypted with the latest encryption methods and stored locally on user´s devices.</p>
+        </div>
+        <div class="col-md-3"><i class="fas fa-wallet"></i>
+            <strong>IxiCash wallet</strong>
+            <p class="text-center">A secure and easy to use cryptocurrency wallet. Users can easily offer paid services or simply transfer IxiCash.</p>
+        </div>
+    </div><div class="divider"></div>
     <div class="row otherFeatures">
         <div class="col-xl-6">
             <h2>Always online</h2>
