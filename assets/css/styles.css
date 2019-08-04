@@ -24,6 +24,82 @@ nav .nav
     opacity: 0.24;
 }
 
+.hero
+{
+    padding-bottom: 60px;
+    background-image: url('assets/img/Spixi_Hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero .row
+{
+    padding-top: 120px;
+}
+
+.heroHeading
+{
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0px;
+    padding-top: 180px;
+    color: rgb(255,255,255);
+}
+
+.hero h3
+{
+    font-size: 18px;
+    line-height: 36px;
+    padding-top: 17px;
+    font-family: Roboto, sans-serif;
+    font-weight: normal;
+    color: rgb(255,255,255);
+}
+
+.hero img
+{
+    max-height: 660px;
+    padding-bottom: 60px;
+    padding-top:60px;
+}
+
+.hero button
+{
+    padding-top: 10px;
+    margin-top: 32px;
+    font-family: Roboto, sans-serif;
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19);
+    opacity: 1;
+    background-color: rgba(255,255,255,0.03);
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 17px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border-color: white;
+    border-radius: 40px;
+    border: 2px solid white;
+}
+
+.subHeader > h2
+{
+    font-family: Roboto, sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    padding-top: 80px;
+    color: #540b2e;
+}
+
+.subHeader > p
+{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
 .features
 {
     padding-bottom: 40px;
@@ -92,9 +168,42 @@ nav .nav
     padding-left: 20px;
 }
 
+.imgPrivacy
+{
+    max-width: 480px;
+    width:100%;
+    height:auto;
+}
+
+.imgWallet
+{
+    max-width: 480px;
+    max-height: 480px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .walletSection > div
 {
     padding-bottom: 25px;
+    padding-left: 20px;
+}
+
+.walletSection > h2
+{
+    font-size: 24px;
+    color: #a71e5a;
+    padding-left: 20px;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 0;
+}
+
+.walletSection > p
+{
+    font-family: 'Open Sans', sans-serif;
+    padding-right: 20px;
     padding-left: 20px;
 }
 
