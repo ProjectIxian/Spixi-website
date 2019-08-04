@@ -3,7 +3,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.nav-item
+.nav-link
 {
     padding-right: 16px;
 }
@@ -203,7 +203,6 @@ nav .nav
 
 .walletSection > p
 {
-    font-family: 'Open Sans', sans-serif;
     padding-right: 20px;
     padding-left: 20px;
 }
@@ -259,9 +258,9 @@ nav .nav
     padding-top: 10px;
     margin-top: 0;
     font-family: Roboto, sans-serif;
-    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19) !important;
     opacity: 1;
-    background-color: rgba(255,255,255,0.03);
+    background-color: rgba(255,255,255,0.03) !important;
     padding-left: 30px;
     padding-right: 30px;
     font-size: 17px;
