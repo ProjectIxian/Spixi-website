@@ -80,7 +80,7 @@ keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
 </div>
 <div class="container downloadBox">
     <div class="shadow example-box">
-        <p class="text-center">Download Spixi for Android devices and Windows PC.<br>Chat with friends and family, and send or receive IxiCash to your wallet.</p><a href="/download.html" style="z-index:100;"><button class="btn btn-primary text-left radial-fill" type="button">Download SPIXI now</button></a>
+        <p class="text-center">Download Spixi for Android devices and Windows PC.<br>Chat with friends and family, and send or receive IxiCash to your wallet.</p><a href="download.html" style="z-index:100;"><button class="btn btn-primary text-left radial-fill" type="button">Download SPIXI now</button></a>
         <div class="background-shapes" style="margin-top: 50px;"><img src="assets/img/Decentra.svg" style="opacity: 0.20;" alt='Decentralized'>
         </div>
     </div>
