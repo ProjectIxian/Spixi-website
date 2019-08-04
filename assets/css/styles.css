@@ -27,7 +27,7 @@ nav .nav
 .hero
 {
     padding-bottom: 60px;
-    background-image: url('assets/img/Spixi_Hero.jpg');
+    background-image: url('../img/Spixi_Hero.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -72,9 +72,9 @@ nav .nav
     padding-top: 10px;
     margin-top: 32px;
     font-family: Roboto, sans-serif;
-    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19) !important;
     opacity: 1;
-    background-color: rgba(255,255,255,0.03);
+    background-color: rgba(255,255,255,0.03) !important;
     padding-left: 30px;
     padding-right: 30px;
     font-size: 17px;
@@ -113,6 +113,7 @@ nav .nav
     color: #a71e5a;
     padding-top: 60px;
     letter-spacing: 0;
+    width: 100%;
 }
 
 .features > div > i
