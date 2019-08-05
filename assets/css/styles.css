@@ -378,7 +378,7 @@ footer h3
     z-index: 100;
 }
 
-.cookiesPolicy .halfColumn.buttons
+.cookiesPolicy .buttons
 {
     top: 50%;
     position: absolute;
@@ -403,6 +403,11 @@ footer h3
     text-align: left;
 }
 
+.cookiesPolicy .btn
+{
+    height: 44px;
+}
+
 @media only screen and (max-width: 960px){
     .cookiesPolicy .halfColumn.buttons
     {
@@ -410,7 +415,7 @@ footer h3
         position: static;
         padding-bottom: 20px;
     }    
-    .cookiesPolicy .button
+    .cookiesPolicy .btn
     {
         display: block;
         margin-top: 10px;
