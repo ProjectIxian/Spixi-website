@@ -81,9 +81,8 @@ nav .nav
     font-size: 17px;
     padding-bottom: 10px;
     font-weight: bold;
-    border-color: white;
     border-radius: 40px;
-    border: 2px solid white;
+    border: 2px solid white !important;
 }
 
 .subHeader > h2
@@ -267,9 +266,8 @@ nav .nav
     font-size: 17px;
     padding-bottom: 10px;
     font-weight: bold;
-    border-color: white;
     border-radius: 40px;
-    border: 2px solid white;
+    border: 2px solid white !important;
     margin-bottom: 40px;
     z-index:100;
 }
@@ -414,6 +412,7 @@ footer h3
     background: transparent;
     padding: 8px 40px;
     border: 2px solid white;
+    cursor: pointer;
 }
 
 .cookiesPolicy .btn.radial-fill:before
