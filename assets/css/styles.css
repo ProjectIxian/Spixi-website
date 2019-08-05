@@ -372,7 +372,7 @@ footer h3
     bottom: 0px;
     left: 0px;
     right: 0px;
-    padding: 20px 20px;
+    padding: 20px 20px 0px 20px;
     background-color: #2e1428;
     color: white;
     z-index: 100;
@@ -413,20 +413,18 @@ footer h3
     border-radius: 40px;
     background: transparent;
     padding: 8px 40px;
-    border: 1px solid white;
+    border: 2px solid white;
 }
 
-.btn.radial-fill:before
+.cookiesPolicy .btn.radial-fill:before
 {
     background: #c2185b;
 }
 
 @media only screen and (max-width: 960px){
-    .cookiesPolicy .halfColumn.buttons
+    .cookiesPolicy .buttons
     {
-        top: 0px;
-        position: static;
-        padding-bottom: 20px;
+        padding-top: 0px;
     }    
     .cookiesPolicy .btn
     {
