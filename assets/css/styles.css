@@ -372,16 +372,20 @@ footer h3
     bottom: 0px;
     left: 0px;
     right: 0px;
-    padding: 0px 20px;
+    padding: 20px 20px;
     background-color: #2e1428;
     color: white;
     z-index: 100;
 }
 
+.cookiesPolicy .row
+{
+    margin: 0 auto;
+}
+
 .cookiesPolicy .buttons
 {
-    top: 50%;
-    position: absolute;
+    padding-top: 30px;
 }
 
 .cookiesPolicy .title
@@ -406,6 +410,13 @@ footer h3
 .cookiesPolicy .btn
 {
     height: 44px;
+    border-radius: 40px;
+    background: transparent;
+}
+
+.cookiesPolicy .btn:hover
+{
+    background: #c2185b;
 }
 
 @media only screen and (max-width: 960px){
