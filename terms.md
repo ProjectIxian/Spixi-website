@@ -14,7 +14,7 @@ keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
         <strong>Important notice</strong><br>
         www.spixi.io (the »Site«) is a website operated by Ixian OU (»We«, »Us«, »Our«). We are a private limited company registered in Estonia. These Terms of Use (the »Agreement«) defines the responsibility of Us and the person, persons or entity (»You« or »Your«) using the Site. Please note that in order to use the Site, you must be of legal age and able to enter into a binding agreement, according to applicable law. We provide the Site solely on the terms and conditions set forth in this Agreement and on the condtion that You accept and comply with everything in this Agreement.
 Before using the Site, please read this Agreement carefully, along with it You are required to read and agree with any other policies or notices on Our Site. Together all these materials contain terms, rules and guidelines related to Your use of the Site. 
-Should You have any questions regarding this Agreement, please contact Us at support@ixian.io.
+Should You have any questions regarding this Agreement, please contact Us at support@spixi.io.
         <br><br>
         <strong>Changes to this Agreement and to our Site</strong><br>
         We amend these Terms from time to time. Please check these Terms to ensure you understand the provisions that apply.
@@ -23,7 +23,7 @@ We may also update and change our Site from time to time. We do not guarantee th
         <strong>Materials and content available on our Site</strong><br>
         We are the owner or the licensee of all intellectual property rights in our Site, and in the material published on it. Those works are protected by copyright laws and all such rights are reserved. You may print off one copy, and download extracts, of any page(s) for your personal use and you may draw the attention of others within your organisation to content posted on our Site.
 You must not modify materials you have printed off or downloaded, and you must not use illustrations, photographs, video or audio sequences separately from accompanying text. Our status (and that of any identified contributors) as authors of content on our Site must always be acknowledged.
-You must not use any part of the content on our Site for commercial purposes without obtaining a licence to do so from us or our licensors via support@ixian.io.
+You must not use any part of the content on our Site for commercial purposes without obtaining a licence to do so from us or our licensors via support@spixi.io.
 <strong>Although we make reasonable efforts to update the information on our Site, we make no representations, warranties or guarantees, whether express or implied, that the content on our Site is accurate, complete or up to date.</strong><br><br>
         <strong>Third party websites</strong><br>
         Where our Site contains links to other sites and resources provided by third parties, these links are provided for your information only. Such links should not be interpreted as approval by us of those linked websites or information you may obtain from them. We have no control over the contents of those sites or resources. You are encouraged to inform yourself regarding the terms of use, privacy policy and other relevant policies of the websites you are linked to.<br><br>
