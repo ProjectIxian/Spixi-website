@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Spixi - Blockchain based Decentralized Messenger
+title: Spixi - Private and Secure Chat Messenger
 description: Ixian is a fully scalable, decentralized platform that enables encrypted data streaming and high volume of micro-transactions.
-keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
+keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
 ---
 <header>
     <div class="bg-success d-flex align-items-center hero">
