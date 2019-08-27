@@ -45,9 +45,9 @@ keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
         When you use this website, you may also receive cookies placed by third parties. Third party cookies
         are used to track and measure usage of this site.<br><br>
         <strong>3. Cookie list</strong><br>
-        _ga
-        _gat_gtag_UA_145131136_1
-        _gid
+        _ga<br>
+        _gat_gtag_UA_145131136_1<br>
+        _gid<br>
         ixianCookieAgreed<br><br>
         <strong>4. Managing your cookie preferences</strong><br>
         It's important to note that if you change your settings and block certain cookies, you won't be able to take full advantage of some features of our site and its features.<br><br>
