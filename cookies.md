@@ -45,15 +45,13 @@ keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
         When you use this website, you may also receive cookies placed by third parties. Third party cookies
         are used to track and measure usage of this site.<br><br>
         <strong>3. Cookie list</strong><br>
-        "INSERT COOKIE LIST"<br><br>
+        _ga
+        _gat_gtag_UA_145131136_1
+        _gid
+        ixianCookieAgreed<br><br>
         <strong>4. Managing your cookie preferences</strong><br>
         It's important to note that if you change your settings and block certain cookies, you won't be able to take full advantage of some features of our site and its features.<br><br>
-        Necessary Cookies<br>
-        Performance<br>
-        Cookies<br>
-        Google Analytics<br><br>
-        <strong>BUTTON SAVE</strong><br><br>
-        <strong>4.1. How to delete cookies</strong><br>
+               <strong>4.1. How to delete cookies</strong><br>
         The consent you've given to store and read cookies can be withdrawn at any time by setting your browser to disable cookies and/or to remove all cookies from your browser.<br><br><br>
         This Cookie Policy may be updated from time to time, so you may wish to check it each time you submit personal information to Spixi.io.<br><br>
     </p>
