@@ -22,9 +22,9 @@ keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
     <a id="features"></a>
     <div class="row features">
         <h2 class="text-center">Key Features of Spixi IM</h2>
-        <div class="col-md-3"><i class="fas fa-stopwatch" data-aos="fade" data-aos-duration="50"></i>
-            <strong>No downtime</strong>
-            <p class="text-center">With data connection you are always online. Resulting in no service downtime.</p>
+        <div class="col-md-3"><i class="fab fa-osi" data-aos="fade" data-aos-duration="50"></i>
+            <strong>Open-source</strong>
+            <p class="text-center">Spixi is an Open-source software, the source code is freely open and available on our GitHub repository.</p>
         </div>
         <div class="col-md-3"><i class="fas fa-project-diagram"></i>
             <strong>Decentralized</strong>
