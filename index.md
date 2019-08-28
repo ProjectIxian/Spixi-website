@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spixi - Private and Secure Chat Messenger
-description: Ixian is a fully scalable, decentralized platform that enables encrypted data streaming and high volume of micro-transactions.
+description: Spixi is a private and secure chat messenger with integrated cryptocurrency wallet. It relies on a decentralized architecture to provide users with a secure chat experience.
 keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
 ---
 <header>
@@ -42,7 +42,7 @@ keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
     <div class="row otherFeatures">
         <div class="col-xl-6">
             <h2>Always online</h2>
-            <p>The decentralized architecture behind Spixi allows for a no downtime service. As long as you and your counterpart have internet connection, you will always be able to chat and exchange data. There are no central points of failure.</p>
+            <p>The decentralized architecture behind Spixi allows for a virtually no downtime service. As long as you and your counterpart have internet connection, you will always be able to chat and exchange data. There are no central points of failure.</p>
             <h2>Security and Privacy</h2>
             <p>Data, which is transferred between users is stored locally on the user's device. By using state-of-the-art encryption methods, SPIXI is ideal for corporations, governments, enterprises and users who value privacy and security.
                 It's the perfect tool when these requirements are essential.</p>
