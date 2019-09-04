@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spixi - Private and Secure Chat Messenger
-description: Spixi is a private and secure chat messenger with integrated cryptocurrency wallet. It relies on a decentralized architecture to provide users with a secure chat experience.
+description: The future of private messaging in your hands! Spixi helps you keep your conversations completely private!
 keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
 ---
 <header>
