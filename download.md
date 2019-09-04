@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Spixi Downloads - Private and Secure Chat Messenger
-description: Ixian is a fully scalable, decentralized platform that enables encrypted data streaming and high volume of micro-transactions.
-keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
+description: The future of private messaging in your hands! Spixi helps you keep your conversations completely private!
+keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
 ---
 <div class="bg-success d-flex align-items-center" style="padding-bottom: 60px;">
 </div>
