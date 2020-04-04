@@ -92,7 +92,7 @@ keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
         <strong>7.1 Personal data and Spixi client</strong><br>
         When you download and start using Spixi Instant Messenger, absolutely no personal data is collected for using the Spixi client. The Spixi client you use on your device is never connected to any server or service hosted by Spixi.io. Any
         messages and data you send or receive is handled by the Ixian S2 network, and is exchanged directly between you and the user you are communicating with.<br><br>
-        <strong>7.1. Peer-to-Peer encryption</strong><br>
+        <strong>7.2. Peer-to-Peer encryption</strong><br>
         <strong>All messages, media and files as well as the contents of your calls are encrypted and processed by Spixi client on your device and Spixi client on the device of the recipient locally. Your data never reaches any centralized servers, nor can it be intercepted or stored. All communication is solely stored on the devices you use locally and cant be retrieved by us or any third party. The data you send is cryptographically encrypted on your end, and decrypted on the recipients end.</strong><br><br>
         <strong>8. Changes to this privacy policy</strong><br>
         This Privacy Policy may be updated. We will inform you of any changes and updates by posting the new Privacy Policy on this page. We do however advise you to check this page for any changes periodically. This Privacy Policy and all its
