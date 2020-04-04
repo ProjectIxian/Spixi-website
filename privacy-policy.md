@@ -83,7 +83,7 @@ keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
         will be deleted, as required by applicable law.<br>
         Every user or visitor can invoke the right be right to be forgotten at any time. Users and visitors can request a list of their personal data obtained and held<br>by us. In case you
         wish to obtain such data send an e-mail to <a href="mailto:support@spixi.io">support@spixi.io</a>. You will receive the list within one month after we have received your request. <br><br>
-        <strong>7. Use of Spixi app and Privacy</strong><br>
+        <a id="section7"><strong>7. Use of Spixi app and Privacy</strong></a><br>
         Spixi is a blockchain based instant messaging app, which includes a cryptocurrency IxiCash wallet. To download and use the Spixi client, no personal information is required at any point. You choose to download and use the Spixi client, which
         is offered as is. There are no centralized servers which would relay or store any data you send or receive to your Spixi Client. Due to the nature of blockchain technology, including Ixian DLT, all transactions that individuals
         perform are recorded within the blockchain. This does not apply for data sent, which is exchanged directly between users, and is not stored nor recorded. All recorded transactions have specific information which is publicly accessible,
