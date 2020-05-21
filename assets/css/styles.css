@@ -451,7 +451,7 @@ footer h3
     background-image: linear-gradient(to bottom right, #c1185b, #602d57);
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
+    margin-bottom: 30px !important;
     max-width: 420px;
     border-radius: 20px;
 }
