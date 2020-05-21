@@ -18,7 +18,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <strong>Android Devices</strong>
             <p class="text-center">
                 <a href="https://play.google.com/store/apps/details?id=io.ixian.spixi&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
-                    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
+                    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="height:80px"/>
                 </a>
             </p>
             <a href="https://github.com/ProjectIxian/Spixi/releases/download/v0.4.5/Spixi-v0.4.5-Android.apk">
@@ -33,7 +33,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
                 <img alt="Download on the App Store" src="assets/img/AppStoreBadge.png"/>
             </a>
         </div>
-        <div class="col-md-3 col-xl-6 col-md-5 mb-3 downloadBoxSmall" style="background-image: linear-gradient(to bottom right, #c1185b, #602d57);margin-left: auto;margin-right: auto;max-width: 420px;border-radius: 20px;">
+        <div class="col-md-3 col-xl-6 col-md-5 mb-3 downloadBoxSmall">
             <i class="fab fa-windows d-xl-flex justify-content-xl-center justify-content-center"></i>
             <strong>Windows Devices</strong>
             <p class="text-center">Download and run Spixi on your Windows PC.</p>
