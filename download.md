@@ -17,7 +17,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <i class="fab fa-android d-xl-flex justify-content-xl-center justify-content-center"></i>
             <strong>Android Devices</strong>
             <p class="text-center">
-                <a href="https://play.google.com/store/apps/details?id=io.ixian.spixi&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+                <a href="https://play.google.com/store/apps/details?id=io.ixian.spixi&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank">
                     <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="height:80px"/>
                 </a>
             </p>
@@ -29,7 +29,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <i class="fab fa-apple d-xl-flex justify-content-xl-center justify-content-center"></i>
             <strong>Apple Devices</strong>
             <p class="text-center">
-                <a href="https://apps.apple.com/us/app/spixi-im-wallet/id1506931056">
+                <a href="https://apps.apple.com/us/app/spixi-im-wallet/id1506931056" target="_blank">
                     <img alt="Download on the App Store" src="assets/img/AppStoreBadge.png" style="margin:13px 0px;"/>
                 </a>
             </p>
