@@ -486,6 +486,12 @@ footer h3
 {
     height: 55px;
 }
+
+.downloadBoxSmall > a
+{
+    display: block;
+    text-align: center;
+}
     
 .downloadBoxSmall > a > .btn {
     padding-top: 10px;

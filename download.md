@@ -28,10 +28,11 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         <div class="col-md-3 col-xl-6 col-md-5 mb-3 downloadBoxSmall">
             <i class="fab fa-apple d-xl-flex justify-content-xl-center justify-content-center"></i>
             <strong>Apple Devices</strong>
-            <p class="text-center"></p>
-            <a href="https://apps.apple.com/us/app/spixi-im-wallet/id1506931056">
-                <img alt="Download on the App Store" src="assets/img/AppStoreBadge.png"/>
-            </a>
+            <p class="text-center">
+                <a href="https://apps.apple.com/us/app/spixi-im-wallet/id1506931056">
+                    <img alt="Download on the App Store" src="assets/img/AppStoreBadge.png"/>
+                </a>
+            </p>
         </div>
         <div class="col-md-3 col-xl-6 col-md-5 mb-3 downloadBoxSmall">
             <i class="fab fa-windows d-xl-flex justify-content-xl-center justify-content-center"></i>
@@ -45,4 +46,4 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
     <div class="divider"></div>
 </div>
 <p class="text-center" style="padding-top: 40px;padding-bottom: 20;font-weight: bold;">Are you using Mac or Linux?</p>
-<p class="text-center" style="padding-top: 10px;padding-bottom: 40px;">Unfortunately Spixi is not available for Mac and Linux at this time. <br>We are working towards releasing Spixi for these platforms, so stay up to date to find out when it happens.</p>
+<p class="text-center" style="padding-top: 10px;padding-bottom: 40px;">Unfortunately Spixi is not available for Mac and Linux at this time.<br>We are working towards releasing Spixi for these platforms, so stay up to date to find out when it happens.</p>
