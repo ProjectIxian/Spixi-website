@@ -30,7 +30,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <strong>Apple Devices</strong>
             <p class="text-center">
                 <a href="https://apps.apple.com/us/app/spixi-im-wallet/id1506931056">
-                    <img alt="Download on the App Store" src="assets/img/AppStoreBadge.png"/>
+                    <img alt="Download on the App Store" src="assets/img/AppStoreBadge.png" style="margin:13px 0px;"/>
                 </a>
             </p>
         </div>
