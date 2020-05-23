@@ -530,9 +530,10 @@ h2.guide
     box-sizing: border-box;
     padding: 45px 20px;
     border-radius: 50px;
+    margin: 0px auto;
 }
 
-guideBox {
+.guideBox {
     background-color: #f2f2f2;
 }
 
@@ -546,8 +547,7 @@ guideBox {
     float: left;
 }
 
-.guidePageIndicator img
-{
+.guideBox img {
     padding-bottom: 30px;
 }
 
