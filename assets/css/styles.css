@@ -586,5 +586,16 @@ h2.guide
     border-radius: 100%;
     width: 24px;
     height: 24px;
-    padding-right: 30px;
+    margin-right: 20px;
+    display: inline-block;
+    font-size: 13pt;
+    text-align:center;
+    line-height: 20px;
+}
+
+
+@media only screen and (max-width: 960px) {
+    .guideOverviewBox > div {
+        display: block;
+    }
 }
