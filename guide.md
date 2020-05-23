@@ -13,9 +13,9 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
     </p>
     <div class="divider"></div>
     <div class="row" style="padding-bottom: 40px;padding-top: 60px;padding-left:20px;padding-right:20px;">
-        <h2>Creating a new account</h2>
+        <h2>Creating a new account</h2><br/>
         <div class="col-md-3 col-xl-4 col-md-5 mb-3 guideBox">
-            <div class="guidePage">1</div>
+            <div class="guidePageIndicator">1</div>
             <img src="assets/img/guide/Spixi1.png" alt="Spixi guide 1"/>
             <div class="guideText">When you run Spixi for the first time, tap the "New Account" button.</div>
         </div>

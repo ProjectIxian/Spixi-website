@@ -514,3 +514,34 @@ footer h3
     border-radius: 40px;
     border: 2px solid white;
 }
+
+.guideBox {
+    width: 313px;
+    max-width: 313px;
+    background-color: #f6f6f6;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.guidePageIndicator {
+    background: #E12577;
+    color: white;
+    border: 1px solid #450F41;
+    border-radius: 100%;
+    float: left;
+}
+
+.guideText,
+.guideSubText
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+    line-height: 22pt;
+    color: black;
+}
+
+.guideSubText {
+    font-style: italic;
+}
