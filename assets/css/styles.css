@@ -573,15 +573,13 @@ h2.guide
     font-size: 15pt;
     font-weight: bold;
     color: black;
-    line-height: 40px;
 }
 
 .guideOverviewDescription {
     font-family: 'Roboto', sans-serif;
     font-size: 12pt;
-    font-weight: bold;
+    font-weight: normal;
     color: black;
-    line-height: 40px;
 }
 
 .overviewSectionIndicator {
@@ -599,9 +597,11 @@ h2.guide
 }
 
 
-guideOverviewBox .divider
+.guideOverviewBox .divider
 {
     margin-left: 64px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 @media only screen and (max-width: 960px) {
