@@ -10,7 +10,10 @@ keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
             <div class="row">
                 <div class="col-md-6 col-xl-7 text-left">
                     <h1 class="text-left heroHeading">Send messages, data and payments.<br>Private and secure.</h1>
-                    <h3 class="text-left">Meet Spixi, the blockchain based instant messenger and IxiCash wallet.</h3><a href="download.html"><button class="btn btn-primary text-left radial-fill" type="button">Download SPIXI now</button></a></div>
+                    <h3 class="text-left">Meet Spixi, the blockchain based instant messenger and IxiCash wallet.</h3>
+                    <a href="download.html"><button class="btn btn-primary text-left radial-fill" type="button">Download Spixi now</button></a>
+                    <a href="guide.html"><button class="btn btn-primary text-left radial-fill" type="button">How to use Spixi</button></a>
+                </div>
                 <div class="col-md-6 col-xl-5 text-center"><img class="img-fluid text-center" src="assets/img/SpixiH.png" style="" alt="Spixi Hero Image"></div>
             </div>
         </div>
