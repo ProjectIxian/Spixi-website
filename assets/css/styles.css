@@ -518,11 +518,11 @@ footer h3
 .guideBox {
     width: 313px;
     max-width: 313px;
-    background-color: #f6f6f6;
+    background-color: #f2f2f2;
     text-align: center;
     box-sizing: border-box;
-    padding: 10px;
-    border-radius: 50%;
+    padding: 45px 20px;
+    border-radius: 30px;
 }
 
 .guidePageIndicator {
@@ -530,6 +530,8 @@ footer h3
     color: white;
     border: 1px solid #450F41;
     border-radius: 100%;
+    width: 24px;
+    height: 24px;
     float: left;
 }
 
