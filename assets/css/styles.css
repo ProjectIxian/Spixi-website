@@ -564,3 +564,27 @@ h2.guide
     font-style: italic;
     padding-top: 20px;
 }
+
+.guideOverviewTitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+    color: black;
+}
+
+.guideOverviewDescription {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+    color: black;
+}
+
+.overviewSectionIndicator {
+    background: #1692d8;
+    color: white;
+    border: 1px solid #450F41;
+    border-radius: 100%;
+    width: 24px;
+    height: 24px;
+    padding-right: 30px;
+}

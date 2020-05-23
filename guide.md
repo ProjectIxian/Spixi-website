@@ -16,7 +16,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
     <div class="row">
         <div class="col-md-3 col-xl-4 col-md-5 mb-3 guideBox">
             <div class="guidePageIndicator">1</div>
-            <img src="assets/img/guide/Spixi1.png" alt="Spixi guide 1"/>
+            <img src="assets/img/guide/SpixiCreate.png" alt="Spixi guide 1"/>
             <div class="guideText">When you run Spixi for the first time, tap the "New Account" button.</div>
         </div>
         <div class="col-md-3 col-xl-4 col-md-5 mb-3 guideBoxNoBg">
@@ -45,18 +45,36 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
     <div class="row">
         <div class="col-md-3 col-xl-4 col-md-5 mb-3 guideBox">
             <div class="guidePageIndicator">1</div>
-            <img src="assets/img/guide/Spixi4.png" alt="Spixi guide 4"/>
+            <img src="assets/img/guide/SpixiRestore.png" alt="Spixi guide 4"/>
             <div class="guideText">Tap the "Restore your Account" button to restore your existing Spixi Account.</div>
         </div>
         <div class="col-md-3 col-xl-4 col-md-5 mb-3 guideBoxNoBg">
             <div class="guidePageIndicator">2</div>
-            <img src="assets/img/guide/Spixi5.png" alt="Spixi guide 5"/>
+            <img src="assets/img/guide/Spixi4.png" alt="Spixi guide 5"/>
             <div class="guideText">Enter the encryption password and select the Backup File that is associated with it. Tap "Restore" button to finish restoring your Spixi Account.</div>
         </div>
         <div class="col-md-3 col-xl-4 col-md-5 mb-3 guideBox">
             <div class="guidePageIndicator">3</div>
-            <img src="assets/img/guide/Spixi6.png" alt="Spixi guide 6"/>
+            <img src="assets/img/guide/Spixi5.png" alt="Spixi guide 6"/>
             <div class="guideText">Your Spixi Account is now being restored. You should be ready to go in no time.</div>
+        </div>
+    </div>
+    <div class="divider"></div>
+    <h2 class="guide">Spixi overview</h2>
+    <div class="row">
+        <div class="col-md-3 col-xl-4 col-md-5 mb-3">
+            <img src="assets/img/guide/Overview1.png" alt="Spixi overview"/>
+        </div>
+        <div class="col-md-3 col-xl-8 col-md-5 mb-3">
+            <div class="row">
+                <div class="col-md-3 col-xl-5 col-md-5 mb-3 guideOverviewTitle">
+                    <div class="overviewSectionIndicator">1</div>
+                    Menu
+                </div>
+                <div class="col-md-3 col-xl-7 col-md-5 mb-3 guideOverviewDescription">
+                    Opens the Menu sidebar.
+                </div>
+            </div>
         </div>
     </div>
 </div>
