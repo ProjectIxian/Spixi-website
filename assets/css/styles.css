@@ -518,7 +518,7 @@ footer h3
 h2.guide
 {
     padding-top: 55px;
-    padding-bottom: 45px;
+    padding-bottom: 30px;
     text-align: center;
 }
 
@@ -600,5 +600,8 @@ h2.guide
 @media only screen and (max-width: 960px) {
     .guideOverviewBox > div {
         display: block;
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px;
     }
 }
