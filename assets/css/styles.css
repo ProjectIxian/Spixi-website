@@ -605,10 +605,20 @@ h2.guide
 }
 
 @media only screen and (max-width: 960px) {
-    .guideOverviewBox > div {
+    .guideOverviewImageBox
+    {
         display: block;
         width: 100%;
         text-align: center;
         padding-bottom: 20px;
+    }
+    .guideOverviewTextBox
+    {
+        display: block;
+        width: 100%;
+        pardding: 0px 40px;
+    }
+    .guideOverviewBox .divider {
+        margin-left: 0px;
     }
 }

@@ -62,10 +62,10 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
     <div class="divider"></div>
     <h2 class="guide">Spixi overview</h2>
     <div class="row guideOverviewBox">
-        <div class="col-xs-auto mr-4">
+        <div class="col-xs-auto mr-4 guideOverviewImageBox">
             <img src="assets/img/guide/Overview1.png" alt="Spixi overview"/>
         </div>
-        <div class="col">
+        <div class="col guideOverviewTextBox">
             <div class="row">
                 <div class="col-5 guideOverviewTitle">
                     <div class="overviewSectionIndicator">1</div>
