@@ -24,7 +24,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <img src="assets/img/guide/Spixi2.png" alt="Spixi guide 2"/>
             <div class="guideText">You will need to set your Nickname. Optionally you can add a custom avatar to be displayed.</div>
             <div class="guideSubText">
-                <strong>Please note: </strong>
+                <strong>Please note </strong>
                 that this is only your displayed name to other Spixi users and it is not your "handle". You can always change your Nickname in the settings.
             </div>
         </div>
@@ -33,7 +33,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <img src="assets/img/guide/Spixi3.png" alt="Spixi guide 3"/>
             <div class="guideText">To finish creating your account, enter your encryption password.</div>
             <div class="guideSubText">
-                <strong>Please note: </strong>
+                <strong>Please note </strong>
                 that the encryption password will be used to encrypt your Account/Wallet.
                 Should you ever lose your device or need to restore your Spixi Account/Wallet, you will need it along with the Backup File.
                 You can change this password in the settings menu.
@@ -148,7 +148,8 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <img src="assets/img/guide/Spixi9.png" alt="Spixi guide 10"/>
             <div class="guideText">On "Settings" screen you can change your displayed image and name. You also have the possibility to delete your accont and/or wallet.</div>
             <div class="guideSubText">
-                Please note that this is only your displayed name to other Spixi users and it is not your "handle". You can always chanage your Nickname in the settings.
+                <strong>Please note </strong>
+                that this is only your displayed name to other Spixi users and it is not your "handle". You can always chanage your Nickname in the settings.
             </div>
         </div>
         <div class="col-xl-4 mb-3 guideBoxNoBg">
@@ -180,7 +181,8 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <img src="assets/img/guide/Spixi14.png" alt="Spixi guide 15"/>
             <div class="guideText">To remove a contact go to the "Contacts" screen using the bottom navigation. Select the desired contact to view Contact Details and tap the "Remove Contact" button.</div>
             <div class="guideSubText">
-                Please note you can delete the chat history for a specific contact by tapping the "Delete History" button.
+                <strong>Please note </strong>
+                that you can delete the chat history for a specific contact by tapping the "Delete History" button.
             </div>
         </div>
     </div>
