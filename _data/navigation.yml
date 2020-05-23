@@ -2,7 +2,9 @@
   link: index.html#features
 - name: Download
   link: download.html
-- name: Roadmap
+- name: Guide
+  link: guide.html
+  name: Roadmap
   link: index.html#roadmap
 - name: IxiCash Wallet
   link: index.html#wallet
