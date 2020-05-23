@@ -545,6 +545,9 @@ h2.guide
     width: 24px;
     height: 24px;
     float: left;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
 }
 
 .guideBox img,
@@ -555,8 +558,8 @@ h2.guide
 .guideText,
 .guideSubText {
     font-family: 'Roboto', sans-serif;
-    font-size: 15pt;
-    line-height: 22pt;
+    font-size: 12pt;
+    line-height: 16pt;
     color: black;
 }
 
@@ -567,14 +570,14 @@ h2.guide
 
 .guideOverviewTitle {
     font-family: 'Roboto', sans-serif;
-    font-size: 18pt;
+    font-size: 15pt;
     font-weight: bold;
     color: black;
 }
 
 .guideOverviewDescription {
     font-family: 'Roboto', sans-serif;
-    font-size: 15pt;
+    font-size: 12pt;
     font-weight: bold;
     color: black;
 }
@@ -588,7 +591,7 @@ h2.guide
     height: 24px;
     margin-right: 20px;
     display: inline-block;
-    font-size: 13pt;
+    font-size: 17px;
     text-align:center;
     line-height: 20px;
 }

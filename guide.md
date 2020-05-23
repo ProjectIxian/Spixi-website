@@ -172,4 +172,74 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         </div>
     </div>
     <div class="divider"></div>
+    <h2 class="guide">How to add or remove a contact</h2>
+    <div class="row">
+        <div class="col-xl-4 mb-3 guideBox">
+            <img src="assets/img/guide/Spixi12.png" alt="Spixi guide 13"/>
+            <div class="guideText">To add a new contact, you can use the "Quick Scan" button to use the QR code or the "Action" button and then selecting "New Contact".</div>
+        </div>
+        <div class="col-xl-4 mb-3 guideBoxNoBg">
+            <img src="assets/img/guide/Spixi13.png" alt="Spixi guide 14"/>
+            <div class="guideText">Paste the address in the empty input and then tap "Send Contact Request" button.</div>
+        </div>
+        <div class="col-xl-4 mb-3 guideBox">
+            <img src="assets/img/guide/Spixi14.png" alt="Spixi guide 15"/>
+            <div class="guideText">To remove a contact go to the "Contacts" screen using the bottom navigation. Select the desired contact to view Contact Details and tap the "Remove Contact" button.</div>
+            <div class="guideSubText">
+                Please note you can delete the chat history for a specific contact by tapping the "Delete History" button.
+            </div>
+        </div>
+    </div>
+    <div class="divider"></div>
+    <h2 class="guide">How to send IxiCash payment</h2>
+    <div class="row">
+        <div class="col-xl-4 mb-3 guideBoxNoBg">
+            <img src="assets/img/guide/Spixi15.png" alt="Spixi guide 16"/>
+            <div class="guideText">
+                You can send IxiCash by using the "Quick Scan" button and scanning a QR code that contains another Spixi Wallet address.
+                Alternatively you can send IxiCash payment by tapping on the "Send" button on the "Wallet" screen.
+            </div>
+        </div>
+        <div class="col-xl-4 mb-3 guideBox">
+            <img src="assets/img/guide/Spixi16.png" alt="Spixi guide 17"/>
+            <div class="guideText">
+                You can also send IxiCash payment in chat, like you would send a message.
+                A contact might request a payment which you can review and pay or you can send a payment directly to that contact by tapping on "Send" button in additional options menu.
+            </div>
+        </div>
+        <div class="col-xl-4 mb-3 guideBoxNoBg">
+            <img src="assets/img/guide/Spixi17.png" alt="Spixi guide 18"/>
+            <div class="guideText">
+                When you proceed to payment, you will notice the recipient/s that you will send a payment to, as well as your current balance.
+                To poerformn a payment you need to set the amount of IxiCash you would like to send and tap on the "Send Payment" button.
+            </div>
+        </div>
+    </div>
+    <div class="divider"></div>
+    <h2 class="guide">How to request IxiCash payment</h2>
+    <div class="row">
+        <div class="col-xl-4 mb-3 guideBox">
+            <img src="assets/img/guide/Spixi18.png" alt="Spixi guide 19"/>
+            <div class="guideText">
+                You can request or receive payment by tapping on the "Receive" button in your "wallet" screen. You will be taken to "Request Payment" screen.
+            </div>
+        </div>
+        <div class="col-xl-4 mb-3 guideBoxNoBg">
+            <img src="assets/img/guide/Spixi19.png" alt="Spixi guide 20"/>
+            <div class="guideText">
+                The option to request a payment is available in chat, where you can request a specific amount
+                from any of your contacts directly by tapping on the "Request Payment" button in the additional options menu.
+            </div>
+        </div>
+        <div class="col-xl-4 mb-3 guideBox">
+            <img src="assets/img/guide/Spixi20.png" alt="Spixi guide 21"/>
+            <div class="guideText">
+                Once you request a payment you are taken to "Request Payment" screen, where you can set a specific amount of IxiCash you want to request.
+            </div>
+            <img src="assets/img/guide/Spixi21.png" alt="Spixi guide 22"/>
+            <div class="guideText">
+                To finish the payment request simply tap on the "Send Request" button.
+            </div>
+        </div>
+    </div>
 </div>
