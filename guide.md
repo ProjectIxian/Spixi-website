@@ -67,55 +67,59 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         </div>
         <div class="col">
             <div class="row">
-                <div class="col-xl-5 mb-3 guideOverviewTitle">
+                <div class="col-xl-5 guideOverviewTitle">
                     <div class="overviewSectionIndicator">1</div>
                     Menu
                 </div>
-                <div class="col-xl-7 mb-3 guideOverviewDescription">
+                <div class="col-xl-7 guideOverviewDescription">
                     Opens the <strong>Menu</strong> sidebar
                 </div>
-                <div class="divider col-xl-12"></div>
+                <div class="divider col-xl-11"></div>
                 <div class="col-xl-5 mb-3 guideOverviewTitle">
                     <div class="overviewSectionIndicator">2</div>
                     IxiCash Balance
                 </div>
-                <div class="col-xl-7 mb-3 guideOverviewDescription">
+                <div class="col-xl-7 guideOverviewDescription">
                     Displays your current <strong>IxiCash balance</strong>
                 </div>
-                <div class="divider col-xl-12"></div>
-                <div class="col-xl-5 mb-3 guideOverviewTitle">
+                <div class="divider col-xl-11"></div>
+                <div class="col-xl-5 guideOverviewTitle">
                     <div class="overviewSectionIndicator">3</div>
                     Notification Area
                 </div>
-                <div class="col-xl-7 mb-3 guideOverviewDescription">
+                <div class="col-xl-7 guideOverviewDescription">
                     Displays your <strong>unread notifications</strong>
                 </div>
-                <div class="col-xl-5 mb-3 guideOverviewTitle">
+                <div class="divider col-xl-11"></div>
+                <div class="col-xl-5 guideOverviewTitle">
                     <div class="overviewSectionIndicator">4</div>
                     Unread Chats Area
                 </div>
-                <div class="col-xl-7 mb-3 guideOverviewDescription">
+                <div class="col-xl-7 guideOverviewDescription">
                     Displays new <strong>unread chats</strong>
                 </div>
-                <div class="col-xl-5 mb-3 guideOverviewTitle">
+                <div class="divider col-xl-11"></div>
+                <div class="col-xl-5 guideOverviewTitle">
                     <div class="overviewSectionIndicator">5</div>
                     App Navigation
                 </div>
-                <div class="col-xl-7 mb-3 guideOverviewDescription">
+                <div class="col-xl-7 guideOverviewDescription">
                     Allows you to <strong>quickly navigate</strong> through your Home, Chats, Wallet and Contacts screen
                 </div>
-                <div class="col-xl-5 mb-3 guideOverviewTitle">
+                <div class="divider col-xl-11"></div>
+                <div class="col-xl-5 guideOverviewTitle">
                     <div class="overviewSectionIndicator">6</div>
                     "Quick Scan" Button
                 </div>
-                <div class="col-xl-7 mb-3 guideOverviewDescription">
+                <div class="col-xl-7 guideOverviewDescription">
                     Turns on the QR scanner. By scanning a Spixi QR code you can quickly <strong>add a new contact</strong> or <strong>send a payment</strong> in IxiCash
                 </div>
-                <div class="col-xl-5 mb-3 guideOverviewTitle">
+                <div class="divider col-xl-11"></div>
+                <div class="col-xl-5 guideOverviewTitle">
                     <div class="overviewSectionIndicator">7</div>
                     "Action" Button
                 </div>
-                <div class="col-xl-7 mb-3 guideOverviewDescription">
+                <div class="col-xl-7 guideOverviewDescription">
                     The Action button brings up a dialog box, which allows you to:<br/>
                     - add a <strong>new contact</strong><br/>
                     - start <strong>new chat</strong><br/>
