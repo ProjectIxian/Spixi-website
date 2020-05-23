@@ -11,9 +11,13 @@
 
 nav .nav
 {
-    width: 415px;
+    width: 485px;
     margin-left: auto;
     margin-right: auto;
+}
+
+nav .nav.navbar-nav {
+    width: auto !important;
 }
 
 .divider {
