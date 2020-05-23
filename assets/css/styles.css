@@ -599,6 +599,11 @@ h2.guide
 }
 
 
+guideOverviewBox .divider
+{
+    margin-left: 64px;
+}
+
 @media only screen and (max-width: 960px) {
     .guideOverviewBox > div {
         display: block;
