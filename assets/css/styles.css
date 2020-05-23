@@ -535,9 +535,13 @@ footer h3
     float: left;
 }
 
-.guideText,
-.guideSubText
+.guidePageIndicator img
 {
+    padding-bottom: 30px;
+}
+
+.guideText,
+.guideSubText {
     font-family: 'Roboto', sans-serif;
     font-size: 15pt;
     line-height: 22pt;
@@ -546,4 +550,5 @@ footer h3
 
 .guideSubText {
     font-style: italic;
+    padding-top: 20px;
 }
