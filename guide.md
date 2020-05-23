@@ -233,7 +233,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         </div>
         <div class="col-xl-4 mb-3 guideBox">
             <img src="assets/img/guide/Spixi20.png" alt="Spixi guide 21"/>
-            <div class="guideText">
+            <div class="guideText mb-4">
                 Once you request a payment you are taken to "Request Payment" screen, where you can set a specific amount of IxiCash you want to request.
             </div>
             <img src="assets/img/guide/Spixi21.png" alt="Spixi guide 22"/>
