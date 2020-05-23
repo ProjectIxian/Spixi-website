@@ -547,7 +547,8 @@ h2.guide
     float: left;
 }
 
-.guideBox img {
+.guideBox img,
+.guideBoxNoBg img{
     padding-bottom: 30px;
 }
 
