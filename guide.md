@@ -22,7 +22,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         <div class="col-xl-4 mb-3 guideBoxNoBg">
             <div class="guidePageIndicator">2</div>
             <img src="assets/img/guide/Spixi2.png" alt="Spixi guide 2"/>
-            <div class="guideText">You will need to set your Nickname. Optionally you can add a custom avatar to be displayed.</div>
+            <div class="guideText">You will need to set your Nickname. Optionally you can add a custom avatar.</div>
             <div class="guideSubText">
                 <strong>Please note </strong>
                 that this is only your displayed name to other Spixi users and it is not your "handle". You can always change your Nickname in the settings.
@@ -146,10 +146,10 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         </div>
         <div class="col-xl-4 mb-3 guideBox">
             <img src="assets/img/guide/Spixi9.png" alt="Spixi guide 10"/>
-            <div class="guideText">On "Settings" screen you can change your displayed image and name. You also have the possibility to delete your accont and/or wallet.</div>
+            <div class="guideText">On "Settings" screen, you can change your displayed image and name. You also have the possibility to delete your account and/or wallet.</div>
             <div class="guideSubText">
                 <strong>Please note </strong>
-                that this is only your displayed name to other Spixi users and it is not your "handle". You can always chanage your Nickname in the settings.
+                that this is only your displayed name to other Spixi users and it is not your "handle". You can always change your Nickname in the settings.
             </div>
         </div>
         <div class="col-xl-4 mb-3 guideBoxNoBg">
@@ -193,21 +193,21 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <img src="assets/img/guide/Spixi15.png" alt="Spixi guide 16"/>
             <div class="guideText">
                 You can send IxiCash by using the "Quick Scan" button and scanning a QR code that contains another Spixi Wallet address.
-                Alternatively you can send IxiCash payment by tapping on the "Send" button on the "Wallet" screen.
+                Alternatively, you can send IxiCash payment by tapping on the "Send" button on the "Wallet" screen.
             </div>
         </div>
         <div class="col-xl-4 mb-3 guideBox">
             <img src="assets/img/guide/Spixi16.png" alt="Spixi guide 17"/>
             <div class="guideText">
-                You can also send IxiCash payment in chat, like you would send a message.
-                A contact might request a payment which you can review and pay or you can send a payment directly to that contact by tapping on "Send" button in additional options menu.
+                You can also send IxiCash payment in chat, just as you would send a message.
+                A contact might request a payment, which you can review and pay, or you can send a payment directly to that contact by tapping on "Send" button in additional options menu.
             </div>
         </div>
         <div class="col-xl-4 mb-3 guideBoxNoBg">
             <img src="assets/img/guide/Spixi17.png" alt="Spixi guide 18"/>
             <div class="guideText">
                 When you proceed to payment, you will notice the recipient/s that you will send a payment to, as well as your current balance.
-                To poerformn a payment you need to set the amount of IxiCash you would like to send and tap on the "Send Payment" button.
+                To perform a payment you need to set the amount of IxiCash you would like to send and tap on the "Send Payment" button.
             </div>
         </div>
     </div>
@@ -217,7 +217,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         <div class="col-xl-4 mb-3 guideBox">
             <img src="assets/img/guide/Spixi18.png" alt="Spixi guide 19"/>
             <div class="guideText">
-                You can request or receive payment by tapping on the "Receive" button in your "wallet" screen. You will be taken to "Request Payment" screen.
+                You can request or receive payment by tapping on the "Receive" button in your "wallet" screen.
             </div>
         </div>
         <div class="col-xl-4 mb-3 guideBoxNoBg">
@@ -230,7 +230,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
         <div class="col-xl-4 mb-3 guideBox">
             <img src="assets/img/guide/Spixi20.png" alt="Spixi guide 21"/>
             <div class="guideText mb-4">
-                Once you request a payment you are taken to "Request Payment" screen, where you can set a specific amount of IxiCash you want to request.
+                Once you request a payment, you are taken to "Request Payment" screen, where you can set a specific amount of IxiCash you want to request.
             </div>
             <img src="assets/img/guide/Spixi21.png" alt="Spixi guide 22"/>
             <div class="guideText">
