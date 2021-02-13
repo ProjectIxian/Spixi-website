@@ -21,8 +21,8 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
                     <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="height:80px"/>
                 </a>
             </p>
-            <a href="https://github.com/ProjectIxian/Spixi/releases/download/v0.6.1/Spixi-v0.6.1-Android.apk">
-                <button class="btn btn-primary text-left radial-fill" type="button">Download Spixi v0.6.1 APK for Android</button>
+            <a href="https://github.com/ProjectIxian/Spixi/releases/download/v0.6.2/Spixi-v0.6.2-Android.apk">
+                <button class="btn btn-primary text-left radial-fill" type="button">Download Spixi v0.6.2 APK for Android</button>
             </a>
         </div>
         <div class="col-md-3 col-xl-6 col-md-5 mb-3 downloadBoxSmall">
@@ -39,7 +39,7 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <strong>Windows Devices</strong>
             <p class="text-center">Download and run Spixi on your Windows PC.</p>
             <a href="https://github.com/ProjectIxian/Spixi/releases/download/v0.6.1/Spixi-v0.6.1-Win.zip">
-                <button class="btn btn-primary text-left radial-fill" type="button">Download Spixi v0.6.1 for Windows</button>
+                <button class="btn btn-primary text-left radial-fill" type="button">Download Spixi v0.6.2 for Windows</button>
             </a>
         </div>
     </div>
