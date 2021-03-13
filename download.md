@@ -38,8 +38,8 @@ keywords: Ixian,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi,Private
             <i class="fab fa-windows d-xl-flex justify-content-xl-center justify-content-center"></i>
             <strong>Windows Devices</strong>
             <p class="text-center">Download and run Spixi on your Windows PC.</p>
-            <a href="https://github.com/ProjectIxian/Spixi/releases/download/v0.6.2/Spixi-v0.6.2-Win.zip">
-                <button class="btn btn-primary text-left radial-fill" type="button">Download Spixi v0.6.2 for Windows</button>
+            <a href="https://github.com/ProjectIxian/Spixi/releases/download/v0.6.2a/Spixi-v0.6.2a-Win.zip">
+                <button class="btn btn-primary text-left radial-fill" type="button">Download Spixi v0.6.2a for Windows</button>
             </a>
         </div>
     </div>
