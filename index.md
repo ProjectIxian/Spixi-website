@@ -91,7 +91,7 @@ keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
 <a id="roadmap"></a>
 <div class="container roadmapTitle">
     <h2 class="text-center">Development Roadmap</h2>
-    <p class="text-center"><br>Spixi is now available for use. We are constantly developing Spixi and adding new features.<br>You can already use some familiar features such as file transfer and voice chat.<br>The future updates will include some major features such as custom dApp support, video chat and group messaging. <br><br></p><div class="divider"></div>
+    <p class="text-center"><br>Spixi is now available for use. We are constantly developing Spixi and adding new features.<br>You can already use some familiar functions such as file transfer and voice chat.<br>The future updates will include some major features such as custom dApp support, video chat and group messaging. <br><br></p><div class="divider"></div>
 </div>
 <div class="container">
     <div class="row roadmap">
