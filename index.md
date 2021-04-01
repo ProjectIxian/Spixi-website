@@ -91,19 +91,19 @@ keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
 <a id="roadmap"></a>
 <div class="container roadmapTitle">
     <h2 class="text-center">Development Roadmap</h2>
-    <p class="text-center"><br>Spixi is now available for use. We are constantly developing Spixi and adding new features.<br>The future updates will include some major features such as file transfer, voice and video chat and group messaging.<br><br></p><div class="divider"></div>
+    <p class="text-center"><br>Spixi is now available for use. We are constantly developing Spixi and adding new features.<br>You can already use some familiar features such as file transfer and voice chat.<br>The future updates will include some major features such as custom dApp support, video chat and group messaging. <br><br></p><div class="divider"></div>
 </div>
 <div class="container">
     <div class="row roadmap">
         <div class="col-md-4">
-            <div><img src="assets/img/upcoming1.png" alt='File Transfer'><i class="fas fa-file-export"></i></div>
-            <strong>File transfer</strong>
-            <p class="text-center">Send or receive data, images and videos. Spixi will provide all data transfer functions that you would expect from an instant messenger.<br><br></p>
+            <div><img src="assets/img/upcoming4.png" alt='File Transfer'><i class="fas fa-file-export"></i></div>
+            <strong>Customization Options</strong>
+            <p class="text-center">Customize your Spixi experience in many ways. Choose between various themes or create your very own.<br><br></p>
         </div>
         <div class="col-md-4">
-            <div><img src="assets/img/upcoming2.png" alt='Voice/Video Chat'><i class="fas fa-phone"></i></div>
-            <strong>Voice Chat</strong>
-            <p class="text-center">Perform voice calls. Utilize the decentralized network for private and secure conversations with your friends and family.</p>
+            <div><img src="assets/img/upcoming5.png" alt='Voice/Video Chat'><i class="fas fa-phone"></i></div>
+            <strong>Custom dApp Support</strong>
+            <p class="text-center">Create and publish your own dApp. Be it multiplayer games or social dApps, Spixi will change the way you interact with people.</p>
         </div>
         <div class="col-md-4">
             <div><img src="assets/img/upcoming3.png" alt='Group Messaging'><i class="fas fa-users"></i></div>
