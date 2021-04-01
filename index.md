@@ -96,12 +96,12 @@ keywords: Ixian,Private,Secure,Chat,Blockchain,Cryptocurrency,IxiCash,Spixi
 <div class="container">
     <div class="row roadmap">
         <div class="col-md-4">
-            <div><img src="assets/img/upcoming4.png" alt='File Transfer'><i class="fas fa-file-export"></i></div>
+            <div><img src="assets/img/upcoming4.png" alt='File Transfer'><i class="fas fa-paint-brush-alt"></i></div>
             <strong>Customization Options</strong>
             <p class="text-center">Customize your Spixi experience in many ways. Choose between various themes or create your very own.<br><br></p>
         </div>
         <div class="col-md-4">
-            <div><img src="assets/img/upcoming5.png" alt='Voice/Video Chat'><i class="fas fa-phone"></i></div>
+            <div><img src="assets/img/upcoming5.png" alt='Voice/Video Chat'><i class="fas fa-rocket-launch"></i></div>
             <strong>Custom dApp Support</strong>
             <p class="text-center">Create and publish your own dApp. Be it multiplayer games or social dApps, Spixi will change the way you interact with people.</p>
         </div>
