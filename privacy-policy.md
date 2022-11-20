@@ -97,5 +97,7 @@ keywords: Ixian,DLT,Chat,Blockchain,Cryptocurrency,Crypto,IxiCash,Spixi
         <strong>8. Changes to this privacy policy</strong><br>
         This Privacy Policy may be updated. We will inform you of any changes and updates by posting the new Privacy Policy on this page. We do however advise you to check this page for any changes periodically. This Privacy Policy and all its
         subsequent changes are effective immediately, after they are posted on this webpage.<br><br>
+        <strong>9. Contact us</strong><br>
+        If you have any questions about this Privacy Policy or any of the provision, you can contact us by email: <a href="mailto:support@spixi.io">support@spixi.io</a>.<br><br>
     </p>
 </div>
