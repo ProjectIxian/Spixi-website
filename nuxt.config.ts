@@ -63,7 +63,8 @@ export default defineNuxtConfig({
       title: 'Spixi',
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-    }
+    },
+    baseURL: process.env.BASE_URL || "/"
   },
   colorMode: {
     classSuffix: '',
@@ -84,6 +85,16 @@ export default defineNuxtConfig({
     },
   },
   plugins: [
-    { src: '~/plugins/utils.client.js', ssr: false },
+    { src: '~/plugins/utils.client.js' },
   ],
+  nitro: {
+    preset: "github-pages"
+  },
+  image: {
+    provider: 'ipx',
+    ipx: {},
+  },
+  routeRules: {
+    '/': {prerender: true},
+  },
 })
