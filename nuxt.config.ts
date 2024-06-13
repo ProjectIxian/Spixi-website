@@ -1,4 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
@@ -64,7 +65,6 @@ export default defineNuxtConfig({
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
     },
-    baseURL: process.env.BASE_URL || "/"
   },
   colorMode: {
     classSuffix: '',
@@ -85,16 +85,17 @@ export default defineNuxtConfig({
     },
   },
   plugins: [
-    { src: '~/plugins/utils.client.js' },
+    { src: '~/plugins/utils.client.js', ssr: false },
   ],
   image: {
-    provider: 'ipx',
-    ipx: {},
+    dir: 'public/img',
   },
   nitro:  {
+    preset: "github-pages",
     prerender: {
       routes: [],
-      failOnError:false,
+      failOnError: false,
     }
-  }
+  },
+  ssr: true
 })
