@@ -88,13 +88,13 @@ export default defineNuxtConfig({
     { src: '~/plugins/utils.client.js' },
   ],
   nitro: {
-    preset: "github-pages"
+    preset: "github-pages",
+    prerender: {
+      failOnError: false
+    }
   },
   image: {
     provider: 'ipx',
     ipx: {},
-  },
-  routeRules: {
-    '/': {prerender: true},
   },
 })
