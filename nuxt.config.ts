@@ -87,12 +87,6 @@ export default defineNuxtConfig({
   plugins: [
     { src: '~/plugins/utils.client.js' },
   ],
-  nitro: {
-    preset: "github-pages",
-    prerender: {
-      failOnError: false
-    }
-  },
   image: {
     provider: 'ipx',
     ipx: {},
