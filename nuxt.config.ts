@@ -91,4 +91,10 @@ export default defineNuxtConfig({
     provider: 'ipx',
     ipx: {},
   },
+  nitro:  {
+    prerender: {
+      routes: [],
+      failOnError:false,
+    }
+  }
 })
