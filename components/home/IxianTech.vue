@@ -15,7 +15,7 @@ const { t } = useI18n()
                     {{ t('pages.home.features.tech.line2') }}
                 </p>
                 <div class="mt-8 mb-4">
-                    <NuxtLink to="https://www.ixian.io/" class="border border-spixi dark:border-white text-spixi hover:bg-[#1D2329] hover:text-spixi-dark dark:text-spixi-dark dark:hover:bg-spixi-dark dark:hover:text-[#1D2329] font-medium rounded-lg py-3 px-6">
+                    <NuxtLink to="https://www.ixian.io/" target="_blank" class="border border-spixi dark:border-white text-spixi hover:bg-[#1D2329] hover:text-spixi-dark dark:text-spixi-dark dark:hover:bg-spixi-dark dark:hover:text-[#1D2329] font-medium rounded-lg py-3 px-6">
                         {{ t('pages.home.features.tech.website') }}
                     </NuxtLink>
                 </div>

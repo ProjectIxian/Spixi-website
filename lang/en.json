@@ -7,7 +7,7 @@
         "terms": "Terms of Use",
         "ixian": "Ixian Website",
         "ixilabs": "Ixi Labs Website",
-        "newversion": "Version v0.7.0 is Available!",
+        "newversion": "Version {version} is Available!",
         "misc": {
             "hamburger": {
                 "screenreader": "Toggle navigation"
@@ -88,7 +88,7 @@
             "subtitle1": "Spixi is a decentralized chat app with $IXI wallet.",
             "subtitle2": "As such it doesn’t rely on servers, all data is exchanged directly between you and your contact.",
             "helper": "Your nickname is not your handle",
-            "helperdesc": "Please keep in mind that the nickname is only displayed to your contacts and is does not serve as your handle. If you want to register a name, you will need to visit www.ixinames.io",
+            "helperdesc": "Please keep in mind that the nickname is only displayed to your contacts and is does not serve as your handle. If you want to register a name, you will need to visit <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
             "hiw1": {
                 "title": "Creating or Restoring <br> Your Spixi Account",
                 "content": "Tap on the appropriate button to start the process. You can set your nickname and add a profile photo. <br> Add your password and you are ready to go! <p class='h2'>&nbsp;</p> If you are restoring an account you will need your <span class='font-semibold'>backup file and password</span>. Remember Spixi is decentralized and as such only you have access to your account and messages, no backups exist anywhere else. <p class='h2'>&nbsp;</p> <span class='font-semibold'>Important note: Your password is your only way of accessing your account. Keep it safe!</span>"
@@ -128,7 +128,7 @@
                 "q10": "Can I customize notifications in Spixi?",
                 "a10": "Push notifications in Spixi are not customizable in order to protect your privacy. Because they are pushed through external servers from Apple or Google in non-encrypted form, they can easily be intercepted. To prevent leaking any private information, notifications don’t contain any user specific data such as message contents among other things.",
                 "q11": "Can another Spixi user connect with me using my nickname?",
-                "a11": "Nicknames are only displayed to contacts and don’t serve as handles. Your Spixi address is used to connect. Spixi does recognize IXI Names, this allows others to find you and add you using your IXI Name. To register a name you should visit www.ixinames.com",
+                "a11": "Nicknames are only displayed to contacts and don’t serve as handles. Your Spixi address is used to connect. Spixi does recognize IXI Names, this allows others to find you and add you using your IXI Name. To register a name you should visit <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
                 "q12": "How does Spixi handle user data?",
                 "a12": "Spixi doesn’t store or share any personal data. No phone numbers, emails, history or contacts are stored anywhere else. Your account is your own.",
                 "q13": "Can I delete my Spixi account permanently?",
@@ -136,7 +136,7 @@
                 "q14": "Are there any fees associated with using Spixi?",
                 "a14": "Using Spixi is free and it will always be free. Sending messages and files (up to a limit) don’t incur any costs",
                 "q15": "Where can I find support if I encounter problems with Spixi?",
-                "a15": "You can join the Ixian community (visit www.ixian.io for more information on how to join) and find support from other users. Or you can write to us directly to support&commat;spixi.io and we will be happy to help."
+                "a15": "You can join the Ixian community (visit <a href='https://www.ixian.io/' target='_blank'>www.ixian.io</a> for more information on how to join) and find support from other users. Or you can write to us directly to <a href='mailto:support&commat;spixi.io'>support&commat;spixi.io</a> and we will be happy to help."
             }
         },
         "privacy": {

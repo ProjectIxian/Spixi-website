@@ -10,8 +10,6 @@ defineProps({
         <h2 class="text-2xl font-lexend font-semibold text-black dark:text-spixi-dark">
             {{ title }}
         </h2>
-        <p class="text-base text-spixi dark:text-spixi-dark">
-            {{ subtitle }}
-        </p>
+        <p class="text-base text-spixi dark:text-spixi-dark" v-html="subtitle" />
     </div>
 </template>

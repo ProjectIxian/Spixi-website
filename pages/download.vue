@@ -1,5 +1,7 @@
 <script setup>
 
+import { spixiVersion } from "~/constants.ts";
+
 const { t } = useI18n()
 
 useHead({
@@ -12,7 +14,6 @@ useHead({
     ]
 })
 
-const version = 'v0.7'
 const downloads = {
     'android': 'https://github.com/ProjectIxian/Spixi/releases/download/v0.6.12/Spixi-v0.6.12-Android.apk',
     'windows': 'https://github.com/ProjectIxian/Spixi/releases/download/v0.6.12/Spixi-v0.6.12-Win.zip'
@@ -57,7 +58,7 @@ const downloads = {
                     <Download 
                         title="Android"
                         :description="t('pages.download.availableandroid')"
-                        :version="t('pages.download.version.android', { version: version })"
+                        :version="t('pages.download.version.android', { version: spixiVersion })"
                         :store="{ 
                             image: '/img/stores/googleplay.svg', 
                             url: 'https://play.google.com/store/apps/details?id=io.ixian.spixi' 
@@ -70,7 +71,7 @@ const downloads = {
                     <Download 
                         title="iOS"
                         :description="t('pages.download.availableios')"
-                        :version="t('pages.download.version.ios', { version: version })"
+                        :version="t('pages.download.version.ios', { version: spixiVersion })"
                         :store="{ 
                             image: '/img/stores/appstore.svg', 
                             url: 'https://apps.apple.com/us/app/spixi/id1570480006' 
@@ -86,7 +87,7 @@ const downloads = {
                     <Download 
                         title="Windows"
                         :description="t('pages.download.availablewindows')"
-                        :version="t('pages.download.version.windows', { version: version })"
+                        :version="t('pages.download.version.windows', { version: spixiVersion })"
                         :link="{ 
                             url: downloads.windows,
                             text: t('pages.download.windowsdownload')
@@ -95,7 +96,7 @@ const downloads = {
                     <Download 
                         title="macOS"
                         :description="t('pages.download.availablemacos')"
-                        :version="t('pages.download.version.macos', { version: version })"
+                        :version="t('pages.download.version.macos', { version: spixiVersion })"
                         :store="{ 
                             image: '/img/stores/appstore.svg', 
                             url: 'https://apps.apple.com/us/app/spixi/id1570480006' 

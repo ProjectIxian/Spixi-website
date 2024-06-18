@@ -7,7 +7,7 @@
         "terms": "Términos de Uso",
         "ixian": "Sitio web de Ixian",
         "ixilabs": "Sitio web de Ixi Labs",
-        "newversion": "¡La versión v0.7.0 está disponible!",
+        "newversion": "¡La versión {version} está disponible!",
         "misc": {
             "hamburger": {
                 "screenreader": "Abrir menú de navegación"
@@ -88,7 +88,7 @@
             "subtitle1": "Spixi es una aplicación de chat descentralizada con billetera $IXI.",
             "subtitle2": "Como tal, no depende de servidores, todos los datos se intercambian directamente entre tú y tu contacto.",
             "helper": "Tu nickname no es tu identificador",
-            "helperdesc": "Por favor, ten en cuenta que el nickname solo se muestra a tus contactos y no sirve como tu identificador. Si deseas registrar un nombre, deberás visitar www.ixinames.io",
+            "helperdesc": "Por favor, ten en cuenta que el nickname solo se muestra a tus contactos y no sirve como tu identificador. Si deseas registrar un nombre, deberás visitar <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
             "hiw1": {
                 "title": "Crear o Restaurar <br> Tu Cuenta de Spixi",
                 "content": "Toca el botón apropiado para comenzar el proceso. Puedes establecer tu nickname y agregar una foto de perfil. <br> ¡Agrega tu contraseña y estás listo para comenzar! <p class='h-2'>&nbsp;</p> Si estás restaurando una cuenta, necesitarás tu <span class='font-semibold'>archivo de respaldo y contraseña</span>. Recuerda que Spixi es descentralizado y, como tal, solo tú tienes acceso a tu cuenta y mensajes, no existen copias de seguridad en ningún otro lugar. <p class='h-2'>&nbsp;</p> <span class='font-semibold'>Nota importante: Tu contraseña es la única forma de acceder a tu cuenta. ¡Mantenla segura!</span>"
@@ -128,7 +128,7 @@
                 "q10": "¿Puedo personalizar las notificaciones en Spixi?",
                 "a10": "Las notificaciones push en Spixi no son personalizables para proteger tu privacidad. Debido a que se envían a través de servidores externos de Apple o Google en forma no encriptada, pueden ser interceptadas fácilmente. Para evitar filtrar cualquier información privada, las notificaciones no contienen ningún dato específico del usuario, como el contenido del mensaje, entre otras cosas.",
                 "q11": "¿Puede otro usuario de Spixi conectarse conmigo usando mi nickname?",
-                "a11": "Los nicknames solo se muestran a los contactos y no sirven como identificadores. Tu dirección de Spixi se utiliza para conectarte. Spixi reconoce los Nombres IXI, esto permite que otros te encuentren y te agreguen usando tu Nombre IXI. Para registrar un nombre, debes visitar www.ixinames.com",
+                "a11": "Los nicknames solo se muestran a los contactos y no sirven como identificadores. Tu dirección de Spixi se utiliza para conectarte. Spixi reconoce los Nombres IXI, esto permite que otros te encuentren y te agreguen usando tu Nombre IXI. Para registrar un nombre, debes visitar <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
                 "q12": "¿Cómo maneja Spixi los datos de los usuarios?",
                 "a12": "Spixi no almacena ni comparte ningún dato personal. No se almacenan números de teléfono, correos electrónicos, historial o contactos en ningún otro lugar. Tu cuenta es tuya.",
                 "q13": "¿Puedo eliminar permanentemente mi cuenta de Spixi?",
@@ -136,7 +136,7 @@
                 "q14": "¿Hay tarifas asociadas con el uso de Spixi?",
                 "a14": "Usar Spixi es gratuito y siempre lo será. Enviar mensajes y archivos (hasta un límite) no conlleva ningún costo.",
                 "q15": "¿Dónde puedo encontrar soporte si encuentro problemas con Spixi?",
-                "a15": "Puedes unirte a la comunidad de Ixian (visita www.ixian.io para obtener más información sobre cómo unirte) y encontrar soporte de otros usuarios. O puedes escribirnos directamente a support&commat;spixi.io y estaremos encantados de ayudarte."
+                "a15": "Puedes unirte a la comunidad de Ixian (visita <a href='https://www.ixian.io/' target='_blank'>www.ixian.io</a> para obtener más información sobre cómo unirte) y encontrar soporte de otros usuarios. O puedes escribirnos directamente a <a href='mailto:support&commat;spixi.io'>support&commat;spixi.io</a> y estaremos encantados de ayudarte."
             }
         },
         "privacy": {
