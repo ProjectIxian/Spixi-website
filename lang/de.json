@@ -7,7 +7,7 @@
         "terms": "Nutzungsbedingungen",
         "ixian": "Ixian Webseite",
         "ixilabs": "Ixi Labs Webseite",
-        "newversion": "Version v0.7.0 ist jetzt verfügbar!",
+        "newversion": "Version v0.9 ist jetzt verfügbar!",
         "misc": {
             "hamburger": {
                 "screenreader": "Navigationsmenü öffnen"
@@ -88,7 +88,7 @@
             "subtitle1": "Spixi ist eine dezentrale Chat-App mit $IXI-Wallet.",
             "subtitle2": "Das bedeutet, dass es nicht auf Server angewiesen ist und alle Daten direkt zwischen dir und deinen Kontakten ausgetauscht werden.",
             "helper": "Spitzname ist keine ID",
-            "helperdesc": "Bitte beachte, dass der Spitzname nur deinen Kontakten angezeigt wird und nicht als ID verwendet wird. Um einen Namen zu registrieren, besuche bitte www.ixinames.io.",
+            "helperdesc": "Bitte beachte, dass der Spitzname nur deinen Kontakten angezeigt wird und nicht als ID verwendet wird. Um einen Namen zu registrieren, besuche bitte <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
             "hiw1": {
                 "title": "Erstelle oder stelle dein Spixi-Konto wieder her",
                 "content": "Drücke die entsprechende Taste, um den Vorgang zu starten. Du kannst einen Spitznamen festlegen und ein Profilbild hinzufügen. <br> Füge ein Passwort hinzu und du bist bereit! <p class='h-2'>&nbsp;</p> Um dein Konto wiederherzustellen, benötigst du die <span class='font-semibold'>Sicherungsdatei und das Passwort</span>. Da Spixi dezentralisiert ist, bist du der einzige, der auf dein Konto und deine Nachrichten zugreifen kann, es gibt keine anderen Backups. <p class='h-2'>&nbsp;</p> <span class='font-semibold'>Wichtiger Hinweis: Dein Passwort ist der einzige Weg, um auf dein Konto zuzugreifen. Bewahre es sicher auf!</span>"
@@ -136,7 +136,7 @@
                 "q14": "Fallen bei der Nutzung von Spixi Gebühren an?",
                 "a14": "Die Nutzung von Spixi ist kostenlos und wird immer kostenlos bleiben. ",
                 "q15": "Wo finde ich Unterstützung, wenn ich Probleme mit Spixi habe?",
-                "a15": "Sie können der Ixian-Community beitreten (weitere Informationen zum Beitritt finden Sie unter www.ixian.io) und Unterstützung von anderen Benutzern erhalten. "
+                "a15": "Sie können der Ixian-Community beitreten (weitere Informationen zum Beitritt finden Sie unter <a href='https://www.ixian.io/' target='_blank'>www.ixian.io</a>) und Unterstützung von anderen Benutzern erhalten. "
             }
         },
         "privacy": {

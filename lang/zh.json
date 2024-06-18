@@ -7,7 +7,7 @@
         "terms": "服务条款",
         "ixian": "Ixian网站",
         "ixilabs": "Ixi Labs网站",
-        "newversion": "版本v0.7.0现已推出！",
+        "newversion": "版本v0.9现已推出！",
         "misc": {
             "hamburger": {
                 "screenreader": "打开导航菜单"
@@ -88,7 +88,7 @@
             "subtitle1": "Spixi是一款带有$IXI钱包的去中心化聊天应用程序。",
             "subtitle2": "这意味着它不依赖于服务器，所有数据都直接在您和您的联系人之间交换。",
             "helper": "昵称不是您的ID",
-            "helperdesc": "请注意，昵称仅显示给您的联系人，不作为ID使用。要注册名称，请访问www.ixinames.io。",
+            "helperdesc": "请注意，昵称仅显示给您的联系人，不作为ID使用。要注册名称，请访问<a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>。",
             "hiw1": {
                 "title": "创建或恢复Spixi帐户",
                 "content": "按下相应按钮以开始该过程。您可以设置昵称并添加个人资料照片。 <br> 添加密码后，您已准备就绪！ <p class='h-2'>&nbsp;</p> 如果要恢复帐户，您将需要<span class='font-semibold'>备份文件和密码</span>。由于Spixi是去中心化的，您是唯一可以访问您的帐户和消息的人，其他地方没有备份。 <p class='h-2'>&nbsp;</p> <span class='font-semibold'>重要提示：密码是访问帐户的唯一方法。请确保安全保存！</span>"
@@ -136,7 +136,7 @@
                 "q14": "使用 Spixi 需要支付任何费用吗？",
                 "a14": "使用 Spixi 是免费的，并且将永远免费。",
                 "q15": "如果我在使用 Spixi 时遇到问题，可以在哪里找到支持？",
-                "a15": "您可以加入 Ixian 社区（访问 www.ixian.io 了解有关如何加入的更多信息）并寻求其他用户的支持。"
+                "a15": "您可以加入 Ixian 社区（访问 <a href='https://www.ixian.io/' target='_blank'>www.ixian.io</a> 了解有关如何加入的更多信息）并寻求其他用户的支持。"
             }
         },
         "privacy": {

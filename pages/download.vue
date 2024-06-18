@@ -12,7 +12,7 @@ useHead({
     ]
 })
 
-const version = 'v0.7'
+const version = 'v0.9'
 const downloads = {
     'android': 'https://github.com/ProjectIxian/Spixi/releases/download/v0.6.12/Spixi-v0.6.12-Android.apk',
     'windows': 'https://github.com/ProjectIxian/Spixi/releases/download/v0.6.12/Spixi-v0.6.12-Win.zip'

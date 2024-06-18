@@ -7,7 +7,7 @@
     "terms": "Conditions d'utilisation",
     "ixian": "Site web d'Ixian",
     "ixilabs": "Site web de Ixi Labs",
-    "newversion": "La version v0.7.0 est disponible!",
+    "newversion": "La version v0.9 est disponible!",
     "misc": {
       "hamburger": {
         "screenreader": "Ouvrir le menu de navigation"
@@ -88,7 +88,7 @@
       "subtitle1": "Spixi est une application de chat décentralisée munie d'un portefeuille $IXI.",
       "subtitle2": "En tant que telle, elle ne dépend pas de serveurs, toutes les données sont échangées directement entre vous et votre contact.",
       "helper": "Votre surnom n'est pas votre identifiant",
-      "helperdesc": "Veuillez noter que le surnom n'est affiché qu'à vos contacts et ne sert pas d'identifiant. Si vous souhaitez enregistrer un nom, vous devrez visiter www.ixinames.io",
+      "helperdesc": "Veuillez noter que le surnom n'est affiché qu'à vos contacts et ne sert pas d'identifiant. Si vous souhaitez enregistrer un nom, vous devrez visiter <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
       "hiw1": {
         "title": "Créer ou Restaurer <br> Votre Compte Spixi",
         "content": "Appuyez sur le bouton approprié pour commencer le processus. Vous pouvez définir votre surnom et ajouter une photo de profil. <br> Ajoutez votre mot de passe et vous êtes prêt à commencer! <p class='h-2'>&nbsp;</p> Si vous restaurez un compte, vous aurez besoin de votre <span class='font-semibold'>fichier de sauvegarde et mot de passe</span>. Rappelez-vous que Spixi est décentralisé et, en tant que tel, seul vous avez accès à votre compte et à vos messages, il n'y a pas de sauvegardes ailleurs. <p class='h-2'>&nbsp;</p> <span class='font-semibold'>Note importante: Votre mot de passe est le seul moyen d'accéder à votre compte. Gardez-le en sécurité!</span>"
@@ -136,7 +136,7 @@
         "q14": "Y a-t-il des frais associés à l’utilisation de Spixi ?",
         "a14": "Utiliser Spixi est gratuit et il le sera toujours. ",
         "q15": "Où puis-je trouver de l'aide si je rencontre des problèmes avec Spixi ?",
-        "a15": "Vous pouvez rejoindre la communauté Ixian (visitez www.ixian.io pour plus d'informations sur la façon de rejoindre) et trouver l'aide d'autres utilisateurs. "
+        "a15": "Vous pouvez rejoindre la communauté Ixian (visitez <a href='https://www.ixian.io/' target='_blank'>www.ixian.io</a> pour plus d'informations sur la façon de rejoindre) et trouver l'aide d'autres utilisateurs. "
       }
     },
     "privacy": {
