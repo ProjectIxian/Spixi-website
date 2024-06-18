@@ -7,7 +7,7 @@
         "terms": "利用規約",
         "ixian": "Ixianウェブサイト",
         "ixilabs": "Ixi Labsウェブサイト",
-        "newversion": "バージョンv0.9が利用可能です！",
+        "newversion": "バージョン{version}が利用可能です！",
         "misc": {
             "hamburger": {
                 "screenreader": "ナビゲーションメニューを開く"

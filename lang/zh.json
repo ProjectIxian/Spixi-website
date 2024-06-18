@@ -7,7 +7,7 @@
         "terms": "服务条款",
         "ixian": "Ixian网站",
         "ixilabs": "Ixi Labs网站",
-        "newversion": "版本v0.9现已推出！",
+        "newversion": "版本{version}现已推出！",
         "misc": {
             "hamburger": {
                 "screenreader": "打开导航菜单"

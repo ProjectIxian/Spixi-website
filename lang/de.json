@@ -7,7 +7,7 @@
         "terms": "Nutzungsbedingungen",
         "ixian": "Ixian Webseite",
         "ixilabs": "Ixi Labs Webseite",
-        "newversion": "Version v0.9 ist jetzt verfügbar!",
+        "newversion": "Version {version} ist jetzt verfügbar!",
         "misc": {
             "hamburger": {
                 "screenreader": "Navigationsmenü öffnen"

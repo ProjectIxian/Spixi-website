@@ -1,4 +1,6 @@
 <script setup>
+import { spixiVersion } from "../constants.ts";
+
 const { setLocale, t, locale, locales } = useI18n()
 
 import { onMounted } from 'vue'
@@ -145,7 +147,7 @@ const toggleDropdownLanguage = () => {
                     </div>
                     <div class="flex justify-center items-center mx-1 md:mx-6 text-sm rounded-lg">
                         <span class="rounded bg-[#6BFCC8] text-xs md:text-base text-spixi font-medium px-1 md:px-4 py-2 text-center">
-                            {{ t('menu.newversion') }}
+                            {{ t('menu.newversion', { version: spixiVersion }) }}
                         </span>
                     </div>
                     <button 

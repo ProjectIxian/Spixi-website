@@ -7,7 +7,7 @@
         "terms": "Условия использования",
         "ixian": "Сайт Ixian",
         "ixilabs": "Сайт Ixi Labs",
-        "newversion": "Версия v0.9 доступна!",
+        "newversion": "Версия {version} доступна!",
         "misc": {
             "hamburger": {
                 "screenreader": "Меню навигации"
