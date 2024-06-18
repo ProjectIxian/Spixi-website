@@ -99,7 +99,7 @@ const downloads = {
                         :version="t('pages.download.version.macos', { version: spixiVersion })"
                         :store="{ 
                             image: '/img/stores/appstore.svg', 
-                            url: 'https://apps.apple.com/us/app/spixi/id1570480006' 
+                            url: 'https://apps.apple.com/us/app/spixi-im-wallet/id1506931056' 
                         }" />
                 </div>
             </div>
