@@ -74,7 +74,7 @@ const downloads = {
                         :version="t('pages.download.version.ios', { version: spixiVersion })"
                         :store="{ 
                             image: '/img/stores/appstore.svg', 
-                            url: 'https://apps.apple.com/us/app/spixi-private-chat-wallet/id6667121792' 
+                            url: 'https://apps.apple.com/app/spixi-private-chat-wallet/id6667121792' 
                         }" />
                 </div>
             </div>
@@ -99,7 +99,7 @@ const downloads = {
                         :version="t('pages.download.version.macos', { version: spixiVersion })"
                         :store="{ 
                             image: '/img/stores/appstore.svg', 
-                            url: 'https://apps.apple.com/us/app/spixi-private-chat-wallet/id6667121792' 
+                            url: 'https://apps.apple.com/app/spixi-private-chat-wallet/id6667121792' 
                         }" />
                 </div>
             </div>
