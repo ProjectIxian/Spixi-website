@@ -88,7 +88,7 @@
             "subtitle1": "Spixiは$IXIウォレットを備えた分散型チャットアプリです。",
             "subtitle2": "そのため、サーバーに依存せず、すべてのデータはあなたと連絡先の間で直接交換されます。",
             "helper": "ニックネームはIDではありません",
-            "helperdesc": "ニックネームは連絡先にのみ表示され、IDとしては機能しないことに注意してください。名前を登録するには、<a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>にアクセスする必要があります。",
+            "helperdesc": "ニックネームは連絡先にのみ表示され、IDとしては機能しないことに注意してください。名前を登録するには、<a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>にアクセスする必要があります。",
             "hiw1": {
                 "title": "Spixiアカウントを作成または復元する",
                 "content": "適切なボタンを押してプロセスを開始します。ニックネームを設定し、プロフィール写真を追加できます。 <br> パスワードを追加し、準備が整いました！ <p class='h-2'>&nbsp;</p> アカウントを復元する場合、 <span class='font-semibold'>バックアップファイルとパスワード</span>が必要です。 Spixiは分散型であり、そのためアカウントやメッセージへのアクセスはあなたのみが持っており、他の場所にバックアップはありません。 <p class='h-2'>&nbsp;</p> <span class='font-semibold'>重要な注意点: パスワードはアカウントにアクセスする唯一の方法です。安全に保管してください！</span>"

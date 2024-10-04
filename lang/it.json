@@ -88,7 +88,7 @@
                 "subtitle1": "Spixi è un'app di chat decentralizzata con portafoglio $IXI.",
                 "subtitle2": "Come tale, non dipende da server, tutti i dati sono scambiati direttamente tra te e il tuo contatto.",
                 "helper": "Il tuo nickname non è il tuo ID",
-                "helperdesc": "Nota che il nickname è visibile solo ai tuoi contatti e non funge da ID. Se desideri registrare un nome, dovrai visitare <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
+                "helperdesc": "Nota che il nickname è visibile solo ai tuoi contatti e non funge da ID. Se desideri registrare un nome, dovrai visitare <a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>",
                 "hiw1": {
                     "title": "Crea o Ripristina <br> il tuo account Spixi",
                     "content": "Premi il pulsante appropriato per iniziare il processo. Puoi impostare il tuo nickname e aggiungere una foto del profilo. <br> Aggiungi la tua password e sei pronto per iniziare! <p class='h-2'>&nbsp;</p> Se stai ripristinando un account, avrai bisogno del tuo <span class='font-semibold'>file di backup e password</span>. Ricorda che Spixi è decentralizzato e, come tale, solo tu hai accesso al tuo account e ai tuoi messaggi, non ci sono backup altrove. <p class='h-2'>&nbsp;</p> <span class='font-semibold'>Nota importante: La tua password è l'unico modo per accedere al tuo account. Tienila al sicuro!</span>"

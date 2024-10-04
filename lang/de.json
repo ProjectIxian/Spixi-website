@@ -88,7 +88,7 @@
             "subtitle1": "Spixi ist eine dezentrale Chat-App mit $IXI-Wallet.",
             "subtitle2": "Das bedeutet, dass es nicht auf Server angewiesen ist und alle Daten direkt zwischen dir und deinen Kontakten ausgetauscht werden.",
             "helper": "Spitzname ist keine ID",
-            "helperdesc": "Bitte beachte, dass der Spitzname nur deinen Kontakten angezeigt wird und nicht als ID verwendet wird. Um einen Namen zu registrieren, besuche bitte <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
+            "helperdesc": "Bitte beachte, dass der Spitzname nur deinen Kontakten angezeigt wird und nicht als ID verwendet wird. Um einen Namen zu registrieren, besuche bitte <a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>",
             "hiw1": {
                 "title": "Erstelle oder stelle dein Spixi-Konto wieder her",
                 "content": "Drücke die entsprechende Taste, um den Vorgang zu starten. Du kannst einen Spitznamen festlegen und ein Profilbild hinzufügen. <br> Füge ein Passwort hinzu und du bist bereit! <p class='h-2'>&nbsp;</p> Um dein Konto wiederherzustellen, benötigst du die <span class='font-semibold'>Sicherungsdatei und das Passwort</span>. Da Spixi dezentralisiert ist, bist du der einzige, der auf dein Konto und deine Nachrichten zugreifen kann, es gibt keine anderen Backups. <p class='h-2'>&nbsp;</p> <span class='font-semibold'>Wichtiger Hinweis: Dein Passwort ist der einzige Weg, um auf dein Konto zuzugreifen. Bewahre es sicher auf!</span>"

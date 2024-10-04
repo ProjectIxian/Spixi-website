@@ -88,7 +88,7 @@
             "subtitle1": "Spixi是一款带有$IXI钱包的去中心化聊天应用程序。",
             "subtitle2": "这意味着它不依赖于服务器，所有数据都直接在您和您的联系人之间交换。",
             "helper": "昵称不是您的ID",
-            "helperdesc": "请注意，昵称仅显示给您的联系人，不作为ID使用。要注册名称，请访问<a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>。",
+            "helperdesc": "请注意，昵称仅显示给您的联系人，不作为ID使用。要注册名称，请访问<a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>。",
             "hiw1": {
                 "title": "创建或恢复Spixi帐户",
                 "content": "按下相应按钮以开始该过程。您可以设置昵称并添加个人资料照片。 <br> 添加密码后，您已准备就绪！ <p class='h-2'>&nbsp;</p> 如果要恢复帐户，您将需要<span class='font-semibold'>备份文件和密码</span>。由于Spixi是去中心化的，您是唯一可以访问您的帐户和消息的人，其他地方没有备份。 <p class='h-2'>&nbsp;</p> <span class='font-semibold'>重要提示：密码是访问帐户的唯一方法。请确保安全保存！</span>"

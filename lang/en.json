@@ -17,7 +17,7 @@
     "footer": {
         "download": "Download Spixi",
         "ixian": "Ixian Website",
-        "ixilabs": "Ixian Labs Website",
+        "ixilabs": "IXI Labs Website",
         "howitworks": "How it works",
         "privacy": "Privacy Policy",
         "terms": "Terms of Use"
@@ -88,7 +88,7 @@
             "subtitle1": "Spixi is a decentralized chat app with $IXI wallet.",
             "subtitle2": "As such it doesn’t rely on servers, all data is exchanged directly between you and your contact.",
             "helper": "Your nickname is not your handle",
-            "helperdesc": "Please keep in mind that the nickname is only displayed to your contacts and is does not serve as your handle. If you want to register a name, you will need to visit <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
+            "helperdesc": "Please keep in mind that the nickname is only displayed to your contacts and it does not serve as your handle. If you want to register a name, you will need to visit <a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>",
             "hiw1": {
                 "title": "Creating or Restoring <br> Your Spixi Account",
                 "content": "Tap on the appropriate button to start the process. You can set your nickname and add a profile photo. <br> Add your password and you are ready to go! <p class='h2'>&nbsp;</p> If you are restoring an account you will need your <span class='font-semibold'>backup file and password</span>. Remember Spixi is decentralized and as such only you have access to your account and messages, no backups exist anywhere else. <p class='h2'>&nbsp;</p> <span class='font-semibold'>Important note: Your password is your only way of accessing your account. Keep it safe!</span>"
@@ -108,11 +108,11 @@
             "faq": {
                 "title": "Frequently Asked Questions",
                 "q1": "Is Spixi secure? What security measures are implemented?",
-                "a1": "Spixi is one of the most secure chat apps out there. It doesn’t rely on or use any centralised servers and your messages are stored only on your device locally. Spixi is a peer-to-peer app and it uses several layers of encryption for added security and privacy.It uses encryption algorithms such as RSA, AES and ChaCha20-Poly1305.",
+                "a1": "Spixi is one of the most secure chat apps out there. It doesn’t rely on or use any centralised servers and your messages are stored only on your device locally. Spixi is a peer-to-peer app and it uses several layers of encryption for added security and privacy. It uses encryption algorithms such as RSA, AES and ChaCha20-Poly1305.",
                 "q2": "How do payments work in Spixi?",
-                "a2": "Spixi is a dAPP (decentralised app) running on the Ixian platform. It uses the Ixian Blockchain to perform IXI payments. All payments made can be verified on the Ixian Block Explorer.",
+                "a2": "Spixi is a dAPP (decentralized app) running on the Ixian platform. It uses the Ixian Blockchain to perform IXI payments. All payments made can be verified on the Ixian Block Explorer.",
                 "q3": "Can I use Spixi on multiple devices simultaneously?",
-                "a3": "Because Spixi is decentralised, some features are more challenging to implement. You will be happy to know that we are working on multi-device support. Once released you will be able to use the same account across devices while still enjoying the same level of security and privacy.",
+                "a3": "Because Spixi is decentralized, some features are more challenging to implement. You will be happy to know that we are working on multi-device support. Once released you will be able to use the same account across devices while still enjoying the same level of security and privacy.",
                 "q4": "What happens if I forget my password?",
                 "a4": "Spixi is a self-custodial wallet and dApp. This means that the password can not be retrieved in case it is lost. Be sure to create a backup and save the file, write down the password and keep it safe. It is up to you to keep your funds secure.",
                 "q5": "How can I block or report a contact?",
@@ -128,13 +128,13 @@
                 "q10": "Can I customize notifications in Spixi?",
                 "a10": "Push notifications in Spixi are not customizable in order to protect your privacy. Because they are pushed through external servers from Apple or Google in non-encrypted form, they can easily be intercepted. To prevent leaking any private information, notifications don’t contain any user specific data such as message contents among other things.",
                 "q11": "Can another Spixi user connect with me using my nickname?",
-                "a11": "Nicknames are only displayed to contacts and don’t serve as handles. Your Spixi address is used to connect. Spixi does recognize IXI Names, this allows others to find you and add you using your IXI Name. To register a name you should visit <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
+                "a11": "Nicknames are only displayed to contacts and don’t serve as handles. Your Spixi address is used to connect. Spixi does recognize IXI Names, this allows others to find you and add you using your IXI Name. To register a name you should visit <a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>",
                 "q12": "How does Spixi handle user data?",
                 "a12": "Spixi doesn’t store or share any personal data. No phone numbers, emails, history or contacts are stored anywhere else. Your account is your own.",
                 "q13": "Can I delete my Spixi account permanently?",
-                "a13": "You can always permanently delete your wallet and account.Because Spixi is a decentralised app, your account is stored on your device only. You are free to create backups of your account and store them yourself, but Spixi does not have any remote backup capabilities.",
+                "a13": "You can always permanently delete your wallet and account. Because Spixi is a decentralized app, your account is stored on your device only. You are free to create backups of your account and store them yourself, but Spixi does not have any remote backup capabilities.",
                 "q14": "Are there any fees associated with using Spixi?",
-                "a14": "Using Spixi is free and it will always be free. Sending messages and files (up to a limit) don’t incur any costs",
+                "a14": "Using Spixi is free and it will always be free. Sending messages and files (up to a limit) doesn’t incur any costs.",
                 "q15": "Where can I find support if I encounter problems with Spixi?",
                 "a15": "You can join the Ixian community (visit <a href='https://www.ixian.io/' target='_blank'>www.ixian.io</a> for more information on how to join) and find support from other users. Or you can write to us directly to <a href='mailto:support&commat;spixi.io'>support&commat;spixi.io</a> and we will be happy to help."
             }

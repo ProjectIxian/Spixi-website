@@ -88,7 +88,7 @@
             "subtitle1": "O Spixi é um aplicativo de chat descentralizado com carteira $IXI.",
             "subtitle2": "Como tal, não depende de servidores, todos os dados são trocados diretamente entre você e seu contato.",
             "helper": "Seu apelido não é seu identificador",
-            "helperdesc": "Por favor, tenha em mente que o apelido é exibido apenas para seus contatos e não serve como seu identificador. Se você deseja registrar um nome, precisará visitar <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
+            "helperdesc": "Por favor, tenha em mente que o apelido é exibido apenas para seus contatos e não serve como seu identificador. Se você deseja registrar um nome, precisará visitar <a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>",
             "hiw1": {
                 "title": "Criando ou Restaurando <br> Sua Conta Spixi",
                 "content": "Toque no botão apropriado para iniciar o processo. Você pode definir seu apelido e adicionar uma foto de perfil. <br> Adicione sua senha e você está pronto para começar! <p class='h2'>&nbsp;</p> Se você estiver restaurando uma conta, precisará do seu <span class='font-semibold'>arquivo de backup e senha</span>. Lembre-se de que o Spixi é descentralizado e, como tal, apenas você tem acesso à sua conta e mensagens, não existem backups em nenhum outro lugar. <p class='h2'>&nbsp;</p> <span class='font-semibold'>Nota importante: Sua senha é a única maneira de acessar sua conta. Mantenha-a segura!</span>"
@@ -141,7 +141,7 @@
                     "As notificações push no Spixi não são personalizáveis para proteger sua privacidade. Por serem enviados por servidores externos da Apple ou Google em forma não criptografada, podem ser facilmente interceptados. Para evitar vazamentos de informações privadas, as notificações não contêm nenhum dado específico do usuário, como conteúdo de mensagens, entre outras coisas.",
                 "q11": "Outro usuário do Spixi pode se conectar comigo usando meu apelido?",
                 "a11":
-                    "Os apelidos são exibidos apenas para contatos e não servem como identificadores. Seu endereço Spixi é usado para se conectar. O Spixi reconhece os Nomes IXI, o que permite que outros o encontrem e adicionem usando seu Nome IXI. Para registrar um nome, você deve visitar <a href='https://www.ixinames.io/' target='_blank'>www.ixinames.io</a>",
+                    "Os apelidos são exibidos apenas para contatos e não servem como identificadores. Seu endereço Spixi é usado para se conectar. O Spixi reconhece os Nomes IXI, o que permite que outros o encontrem e adicionem usando seu Nome IXI. Para registrar um nome, você deve visitar <a href='https://www.ixinames.com/' target='_blank'>www.ixinames.com</a>",
                 "q12": "Como o Spixi lida com os dados do usuário?",
                 "a12":
                     "O Spixi não armazena nem compartilha nenhum dado pessoal. Nenhum número de telefone, e-mail, histórico ou contatos são armazenados em nenhum outro lugar. Sua conta é sua.",
