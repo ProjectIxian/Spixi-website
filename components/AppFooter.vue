@@ -47,7 +47,7 @@ const { t } = useI18n()
         </div>
         <div class="text-center text-gray-700 dark:text-white text-sm">
           <p>
-            IXI Labs &copy; 2024
+            IXI Labs &copy; 2025
           </p>
         </div>
       </div>
