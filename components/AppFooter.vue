@@ -13,7 +13,7 @@ const { t } = useI18n()
           </div>
           <div class="w-full md:w-1/2 flex justify-end">
             <div class="flex items-center space-x-4">
-              <NuxtLink to="https://github.com/ProjectIxian/" class="text-gray-700 dark:text-white" target="_blank">
+              <NuxtLink to="https://github.com/ixian-platform/" class="text-gray-700 dark:text-white" target="_blank">
                 <Icon name="flowbite:github-solid" class="w-10 h-10" />
               </NuxtLink>
               <NuxtLink to="https://x.com/SpixiIm" class="text-gray-700 dark:text-white" target="_blank">
