@@ -103,7 +103,7 @@
             },
             "hiw4": {
                 "title": "Senden und Empfangen von $IXI-Zahlungen",
-                "content": "Du kannst $IXI senden, indem du auf dem Wallet-Bildschirm die Schaltfläche „Scannen“ verwendest. Fahre mit einem QR-Code fort, der eine andere Spixi-Wallet-Adresse enthält. Alternativ kannst du die Schaltfläche „Senden“ drücken, um eine IxiCash-Zahlung zu senden. <p class='h-2'>&nbsp;</p> Weitere Informationen findest du in den FAQ."
+                "content": "Du kannst $IXI senden, indem du auf dem Wallet-Bildschirm die Schaltfläche „Scannen“ verwendest. Fahre mit einem QR-Code fort, der eine andere Spixi-Wallet-Adresse enthält. Alternativ kannst du die Schaltfläche „Senden“ drücken, um eine $IXI-Zahlung zu senden. <p class='h-2'>&nbsp;</p> Weitere Informationen findest du in den FAQ."
             },
             "faq": {
                 "title": "Häufig gestellte Fragen",
