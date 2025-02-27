@@ -103,7 +103,7 @@
                 },
                 "hiw4": {
                     "title": "Invia e Ricevi <br> Pagamenti $IXI",
-                    "content": "Puoi inviare $IXI utilizzando il pulsante “Scansiona” nella schermata del portafoglio. Continua con un codice QR contenente un altro indirizzo di portafoglio Spixi. In alternativa, puoi inviare un pagamento IxiCash premendo il pulsante “Invia”. <p class='h-2'>&nbsp;</p> Consulta le FAQ per ulteriori informazioni."
+                    "content": "Puoi inviare $IXI utilizzando il pulsante “Scansiona” nella schermata del portafoglio. Continua con un codice QR contenente un altro indirizzo di portafoglio Spixi. In alternativa, puoi inviare un pagamento $IXI premendo il pulsante “Invia”. <p class='h-2'>&nbsp;</p> Consulta le FAQ per ulteriori informazioni."
                 },
                 "faq": {
                     "title": "Domande Frequenti",

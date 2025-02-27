@@ -103,7 +103,7 @@
             },
             "hiw4": {
                 "title": "Sending and Receiving <br> $IXI Payments",
-                "content": "You can send $IXI by using the “Scan” button in the Wallet screen. Proceed by a QR code that contains another Spixi Wallet address. Alternatively, you can send IxiCash payment by tapping on the “Send” button. <p class='h2'>&nbsp;</p> Check the FAQ for more information."
+                "content": "You can send $IXI by using the “Scan” button in the Wallet screen. Proceed by a QR code that contains another Spixi Wallet address. Alternatively, you can send $IXI payment by tapping on the “Send” button. <p class='h2'>&nbsp;</p> Check the FAQ for more information."
             },
             "faq": {
                 "title": "Frequently Asked Questions",

@@ -103,7 +103,7 @@
             },
             "hiw4": {
                 "title": "Enviar y Recibir <br> Pagos $IXI",
-                "content": "Puedes enviar $IXI usando el botón “Escanear” en la pantalla de la billetera. Continúa con un código QR que contiene otra dirección de billetera Spixi. Alternativamente, puedes enviar un pago IxiCash tocando el botón “Enviar”. <p class='h-2'>&nbsp;</p> Consulta las preguntas frecuentes para obtener más información."
+                "content": "Puedes enviar $IXI usando el botón “Escanear” en la pantalla de la billetera. Continúa con un código QR que contiene otra dirección de billetera Spixi. Alternativamente, puedes enviar un pago $IXI tocando el botón “Enviar”. <p class='h-2'>&nbsp;</p> Consulta las preguntas frecuentes para obtener más información."
             },
             "faq": {
                 "title": "Frequently Asked Questions",
